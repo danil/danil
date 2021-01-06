@@ -1,3 +1,3 @@
 # Привет!
 
-[Eng](./README.en.md)
+[Eng](./README.md#readme)

@@ -1,3 +1,3 @@
 # Hi there!
 
-[Rus](./README.ru.md)
+[Rus](./README.ru.md#readme)
