@@ -1,3 +1,3 @@
 # Hi there!
 
-[Rus](./README.ru.md#readme)
+[Curriculum vitae](./CV.en.md#readme)/[Резюме](./CV.ru.md#readme)
