@@ -2,7 +2,7 @@
 
 ## Education
 
-The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 1997—2001
+[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 1997—2001](https://sut.ru)
 
 Information Technology, 3rd year
 
