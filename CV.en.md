@@ -6,4 +6,4 @@ The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 1997�
 
 Information Technology, 3rd year
 
-[Rus](./CV.ru.md#readme)
+[Моё резюме на русском языке](./CV.ru.md#readme).
