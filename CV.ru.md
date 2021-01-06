@@ -6,4 +6,4 @@
 
 Незаконченное высшее. Факультет многоканальных телекоммуникационных систем
 
-[My Curriculum vitae is in english](./CV.en.md#readme)
+[My curriculum vitae is in english](./CV.en.md#readme)
