@@ -1,1 +1,3 @@
-README.en.md
+# Hi there!
+
+[Rus](./README.ru.md)
