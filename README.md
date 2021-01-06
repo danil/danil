@@ -1,3 +1,3 @@
 # Hi there!
 
-[Curriculum vitae](./CV.en.md#readme)/[Резюме](./CV.ru.md#readme)
+[My Curriculum vitae is in English](./CV.en.md#readme) или [моё резюме на русском языке](./CV.ru.md#readme)
