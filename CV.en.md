@@ -1,4 +1,4 @@
-# Hi there!
+# Danil Kutkevich — Back-end developer
 
 ## Education
 
