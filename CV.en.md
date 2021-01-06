@@ -6,4 +6,4 @@
 
 Information Technology, 3rd year
 
-[Моё резюме на русском языке](./CV.ru.md#readme).
+[Моё резюме на русском языке](./CV.ru.md#readme)
