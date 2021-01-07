@@ -16,7 +16,7 @@
 
 11.2004—03.2008
 
-Переписал фрот сайта бронирования гостиниц hotelguide.com с ColdFusion
+Переписал фронт сайта бронирования гостиниц hotelguide.com с ColdFusion
 на JavaServer Faces
 
 [Дараут сервис]: http://darout.ru
