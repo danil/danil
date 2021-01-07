@@ -20,10 +20,11 @@ and file attachments using Paperclip gem
 
 11.2004—03.2008
 
-I have rewritten frontend of the <abbr title="hotel booking site">hotelguide.com</abbr>
+I have rewritten frontend of the [hotel booking site][]
 from ColdFusion to JavaServer Faces
 
 [Darout Service]: http://darout.ru
+[hotel booking site]: http://hotelguide.com
 
 ## [Investment Company Lenmontazhstroy][]
 
