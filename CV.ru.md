@@ -6,10 +6,10 @@
 
 09.2010—04.2012
 
-[Фриланс биржа][] на Ruby on Rails и MySQL, там же Thinking Sphinx
+Дописывал [фриланс биржу][] на Ruby on Rails и MySQL, там же Thinking Sphinx
 для поиска по [КЛАДР][], и PDF налоговая декларация для ИП
 
-[Фриланс биржа]: http://prohq.ru
+[фриланс биржу]: http://prohq.ru
 [prohq.ru]: http://prohq.ru
 [КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерации
 

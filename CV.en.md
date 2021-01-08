@@ -8,7 +8,7 @@
 
 [Freelancing platform][] on Ruby on Rails and MySQL
 also Thinking Sphinx search for [KLADR][] and
-PDF formation of the sole proprietor's tax declaration
+formation of the PDF tax declaration for the sole proprietor
 
 [Freelancing platform]: http://prohq.ru
 [КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
