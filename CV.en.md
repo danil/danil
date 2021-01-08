@@ -11,7 +11,7 @@ also Thinking Sphinx search for [KLADR][] and
 formation of the PDF tax declaration for the sole proprietor
 
 [Freelancing platform]: http://prohq.ru
-[КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
+[KLADR]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
 
 ### [John studio][]
 
