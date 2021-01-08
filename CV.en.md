@@ -2,13 +2,24 @@
 
 ## Work experience
 
+### [prohq.ru][]
+
+09.2010—04.2012
+
+Freelancing platform on Ruby on Rails and MySQL,
+also Thinking Sphinx search for [KLADR][] addresses and
+PDF formation of the tax declarations
+
+[prohq.ru]: http://prohq.ru
+[КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерации
+
 ### [John studio][]
 
 03.2008—09.2010
 
 Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
-The most interesting — it is the Nginx setup
-and file attachments using Paperclip gem
+The most interesting — it is the Nginx setup and file attachments
+using Paperclip gem
 
 [John studio]: https://john.ru
 [SKA Ice Hockey Club]: https://ska.ru
