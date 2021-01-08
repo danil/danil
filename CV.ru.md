@@ -33,11 +33,10 @@
 
 4. <sub><sup>11.</sup></sub>2004—<sub><sup>03.</sup></sub>2008 [Дараут сервис][]
 
-   Переписал фронт [сайта бронирования гостиниц][]
+   Переписал фронт <abbr title="http://hotelguide.com">сайта бронирования гостиниц</abbr>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
-   [сайта бронирования гостиниц]: http://hotelguide.com
 
 5. <sub><sup>06.</sup></sub>2003—<sub><sup>11.</sup></sub>2004 [Инвестиционная Компания Ленмонтажстрой][]
 
