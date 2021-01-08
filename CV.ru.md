@@ -9,7 +9,7 @@
 #### [НеваРеактив][]
 
 Магазин химических реактивов на Ruby on Rails и MySQL.
-Из интересного на Thinking Sphinx и скрипты под God/Capistrano
+Из интересного — полнотекстовой поиск на Thinking Sphinx и скрипты под God/Capistrano
 
 #### [Omorfia][]
 
