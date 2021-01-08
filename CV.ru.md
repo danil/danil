@@ -33,7 +33,7 @@
 
 4. <sub><sup>11.</sup></sub>2004—<sub><sup>03.</sup></sub>2008 [Дараут сервис][]
 
-   Переписал фронт <abbr title="http://hotelguide.com">сайта бронирования гостиниц</abbr>
+   Переписал фронт <em title="http://hotelguide.com">сайта бронирования гостиниц</em>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
