@@ -7,7 +7,7 @@
 03.2008—09.2010
 
 Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
-The most interesting — it is the setup of the Nginx
+The most interesting — it is the Nginx setup
 and file attachments using Paperclip gem
 
 [John studio]: https://john.ru
