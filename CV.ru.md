@@ -2,6 +2,23 @@
 
 ## Опыт работы
 
+### [Молинос][]
+
+04.2012—06.2013
+
+#### [НеваРеактив][]
+
+Магазин химических реактивов на Ruby on Rails и MySQL.
+Из интересного на Thinking Sphinx и скрипты под God/Capistrano
+
+#### [Omorfia][]
+
+Коллективный блог на Ruby on Rails и MySQL для постоянно действующего конкурса
+
+[Молинос]: https://molinos.ru
+[НеваРеактив]: https://nevareaktiv.ru
+[Omorfia]: https://omorfia.ru
+
 ### OOO Аверс
 
 09.2010—04.2012
