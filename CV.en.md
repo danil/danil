@@ -6,9 +6,6 @@
 
 03.2008—09.2010
 
-ska.ru
-SKA Ice Hockey Club
-
 Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
 The most interesting — it is the setup of the Nginx
 and file attachments using Paperclip gem
