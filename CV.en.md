@@ -2,16 +2,16 @@
 
 ## Work experience
 
-### [prohq.ru][]
+### Avers
 
 09.2010—04.2012
 
-Freelancing platform on Ruby on Rails and MySQL,
-also Thinking Sphinx search for [KLADR][] addresses and
-PDF formation of the tax declarations
+[Freelancing platform][] on Ruby on Rails and MySQL
+also Thinking Sphinx search for [KLADR][] and
+PDF formation of the sole proprietor's tax declaration
 
-[prohq.ru]: http://prohq.ru
-[КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерации
+[Freelancing platform]: http://prohq.ru
+[КЛАДР]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
 
 ### [John studio][]
 
