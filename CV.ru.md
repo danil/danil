@@ -6,7 +6,7 @@
 
 09.2010—04.2012
 
-[Фриланс биржа][] на Ruby on Rails и MySQL, a так же Thinking Sphinx
+[Фриланс биржа][] на Ruby on Rails и MySQL, там же Thinking Sphinx
 для поиска по [КЛАДР][], и PDF налоговая декларация для ИП
 
 [Фриланс биржа]: http://prohq.ru
