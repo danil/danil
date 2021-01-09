@@ -2,6 +2,18 @@
 
 ## Work experience
 
+1. <span title="04.2012—06.2013">2012—2013</span> Molinos
+
+   * [Nevareaktiv][] supplier of chemicals on Ruby on Rails and MySQL.
+     The most interesting — it is the full-text Thinking Sphinx search
+
+   * Developed a collaborative blog on Ruby on Rails and MySQL
+     for the [Omorfia][] ongoing contest
+
+   [Molinos]: https://molinos.ru
+   [Nevareaktiv]: https://nevareaktiv.ru
+   [Omorfia]: https://omorfia.ru
+
 2. <span title="09.2010—04.2012">2010—2012</span> Avers  
    [Freelancing platform][] on Ruby on Rails and MySQL and also
    there the Thinking Sphinx for search for
