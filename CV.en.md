@@ -44,8 +44,7 @@ My first project is a corporate site on PHP and MySQL
 
 ## Education
 
-[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][] 1997—2001
-
+[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][] 1997—2001  
 Information Technology, 3rd year
 
 [The Bonch-Bruevich Saint-Petersburg State University of Telecommunications]: https://sut.ru
