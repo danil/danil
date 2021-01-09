@@ -24,7 +24,7 @@
    [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
 
-3. <sub><sup>03.</sup></sub>2008—<sub><sup>09.</sup></sub>2010 [Джон студия][]
+3. <span title="03.2008—09.2010">2008—2010</span> [Джон студия][]
 
    [Сайт хоккейного клуба СКА][] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
