@@ -2,17 +2,17 @@
 
 ## Опыт работы
 
-1. <sub><sup>04.</sup></sub>2012—<sub><sup>06.</sup></sub>2013 [Молинос][]
+1. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
 
    * [НеваРеактив][] магазин химических реактивов на Ruby on Rails и MySQL.
      Из интересного — полнотекстовой поиск на Thinking Sphinx
 
-   * [Omorfia][] коллективный блог на Ruby on Rails и MySQL для
+   * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][] —
      постоянно действующего конкурса
 
    [Молинос]: https://molinos.ru
    [НеваРеактив]: https://nevareaktiv.ru
-   [Omorfia]: https://omorfia.ru
+   [Оморфии]: https://omorfia.ru
 
 2. <span title="09.2010—04.2012">2010—2012</span> OOO Аверс  
    Дописывал [фриланс биржу][] на Ruby on Rails и MySQL, там же Thinking Sphinx
