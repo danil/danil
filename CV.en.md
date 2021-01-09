@@ -2,45 +2,45 @@
 
 ## Work experience
 
-### Avers
+2. Avers
 
-09.2010—04.2012
+   09.2010—04.2012
 
-[Freelancing platform][] on Ruby on Rails and MySQL
-also Thinking Sphinx search for [KLADR][] and
-formation of the PDF tax declaration for the sole proprietor
+   [Freelancing platform][] on Ruby on Rails and MySQL
+   also Thinking Sphinx search for [KLADR][] and
+   formation of the PDF tax declaration for the sole proprietor
 
-[Freelancing platform]: http://prohq.ru
-[KLADR]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
+   [Freelancing platform]: http://prohq.ru
+   [KLADR]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
 
-### [John studio][]
+3. [John studio][]
 
-03.2008—09.2010
+   03.2008—09.2010
 
-Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
-The most interesting — it is the Nginx setup and file attachments
-using Paperclip gem
+   Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
+   The most interesting — it is the Nginx setup and file attachments
+   using Paperclip gem
 
-[John studio]: https://john.ru
-[SKA Ice Hockey Club]: https://ska.ru
+   [John studio]: https://john.ru
+   [SKA Ice Hockey Club]: https://ska.ru
 
-### Darout Service
+4. Darout Service
 
-11.2004—03.2008
+   11.2004—03.2008
 
-I have rewritten frontend of the [hotel booking site][]
-from ColdFusion to JavaServer Faces
+   I have rewritten frontend of the [hotel booking site][]
+   from ColdFusion to JavaServer Faces
 
-[Darout Service]: http://darout.ru
-[hotel booking site]: http://hotelguide.com
+   [Darout Service]: http://darout.ru
+   [hotel booking site]: http://hotelguide.com
 
-## [Investment Company Lenmontazhstroy][]
+5. [Investment Company Lenmontazhstroy][]
 
-06.2003—11.2004
+   06.2003—11.2004
 
-My first project is a corporate site on PHP and MySQL
+   My first project is a corporate site on PHP and MySQL
 
-[Investment Company Lenmontazhstroy]: https://lmsic.com
+   [Investment Company Lenmontazhstroy]: https://lmsic.com
 
 ## Education
 
