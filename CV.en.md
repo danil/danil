@@ -3,12 +3,11 @@
 ## Work experience
 
 2. <span title="09.2010—04.2012">2010—2012</span> Avers  
-   [Freelancing platform][] on Ruby on Rails and MySQL and
-   also used Thinking Sphinx search for
-   <span title="Classifier of addresses of the Russian Federation">KLADR</a>
+   [Freelancing platform][] on Ruby on Rails and MySQL and also
+   there the Thinking Sphinx for search for
+   <span title="classifier of addresses of the Russian Federation">KLADR</a>
 
    [Freelancing platform]: http://prohq.ru
-   [KLADR]: https://ru.wikipedia.org/wiki/Классификатор_адресов_Российской_Федерац
 
 3. <span title="03.2008—09.2010">2008—2010</span> [John studio][]  
    Site of the [SKA Ice Hockey Club][] on Ruby on Rails and PostgreSQL.
