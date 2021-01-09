@@ -14,7 +14,7 @@
    [НеваРеактив]: https://nevareaktiv.ru
    [Omorfia]: https://omorfia.ru
 
-2. <sub><sup>09.</sup></sub>2010—<sub><sup>04.</sup></sub>2012 OOO Аверс  
+2. <span title="09.2010-04.2012">2010—2012</span> OOO Аверс  
    Дописывал [фриланс биржу][] на Ruby on Rails и MySQL, там же Thinking Sphinx
    для поиска по
    КЛАДР<span title="Классификатор адресов Российской Федерации">*</span>,
@@ -23,7 +23,7 @@
    [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
 
-3. <span title="03.2008—09.2010">2008—2010</span> [Джон студия][]  
+3. <span title="03.2008-09.2010">2008—2010</span> [Джон студия][]  
    [Сайт хоккейного клуба СКА][] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
 
