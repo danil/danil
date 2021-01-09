@@ -34,8 +34,7 @@
 
 4. <span title="11.2004-03.2008">2004-2008</span> [Дараут сервис][]
 
-   Переписал фронт
-   hotelguide.com<span title="сайт бронирования гостиниц">*</span>
+   Переписал фронт <span title="сайт бронирования гостиниц">hotelguide.com*</span>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
