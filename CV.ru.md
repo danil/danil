@@ -11,7 +11,8 @@
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
    * Система нагрузочного тестирования запускаемая из CI на AWS для
-     [Fhirbase][] — это хранилище медицинских данных на основе PostgreSQL и FHIR
+     [Fhirbase][]
+     <sub>(</sub>хранилище медицинских данных на основе PostgreSQL и FHIR<sub>)</sub>
 
    [Waveaccess]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
