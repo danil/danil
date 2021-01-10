@@ -8,13 +8,13 @@
 
 3.
 
-4. <span tite="06.2013—08.2016">2013—2016</span> [Waveaccess][]
+4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
    * Дописывал [Fhirbase][] — хранилище медицинских данных на основе PostgreSQL
      и FHIR. Из интересного — система нагрузочного тестирования запускаемая из CI+AWS
 
-[Waveaccess]: https://waveaccess.ru
-[Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
+   [Waveaccess]: https://waveaccess.ru
+   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
 
 5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
 
