@@ -12,7 +12,8 @@
 
    * Система нагрузочного тестирования запускаемая из CI на AWS для
      [Fhirbase][]
-     <sub>(</sub>хранилище медицинских данных на основе PostgreSQL и FHIR<sub>)</sub>
+     <sub><sup>(</sup></sub>хранилище медицинских данных на основе PostgreSQL
+     и FHIR<sub><sup>)</sup></sub>
 
    [Waveaccess]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
