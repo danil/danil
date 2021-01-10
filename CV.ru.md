@@ -11,7 +11,7 @@
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
    * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
-     Например, приём платежей через Paypal, а также WebRTC-видеоконференцию
+     Например, приём платежей через Paypal, а также WebRTC-видеоконференция
 
    * Прототип <span title="Salemed">системы заказа магниторезонансной
      томографии</span> на Clojure и PostgreSQL
