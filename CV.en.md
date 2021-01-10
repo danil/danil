@@ -10,6 +10,9 @@
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
+   * Developing backend on Clojure and PostgreSQL for the Salemed — electronic
+     marketplace for <span title="Magnetic Resonance Imaging">MRI*</span>
+
    * Developed a performance testing which triggered by CI on AWS
      for the [Fhirbase][] <sub><sup>(</sup></sub>data storage based on
      PostgreSQL and FHIR<sub><sup>)</sup></sub>
