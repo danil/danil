@@ -10,8 +10,8 @@
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
-   * Писал на Clojure и PostgreSQL прототип Salemed — заказ
-     магниторезонансной томографии
+   * Прототип <span title="Salemed">системы заказа магниторезонансной
+     томографии</span> на Clojure и PostgreSQL
 
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
      [Fhirbase][]
