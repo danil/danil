@@ -6,7 +6,18 @@
 
 2.
 
-3.
+3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
+
+   * Бэкенд для игрового мобильного приложения Bing Han Garden на
+     Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
+     Apple Store и Google Play. Готовился к выпуску TCP сервер реального времени
+
+   * Бэкенд для игрового мобильного приложения [Rise of Pirates][] на
+     Go, MySQL и MongoDB. Например приём платежей через Apple Store. Приложение
+     с лёгкостью выдерживало 120 RPS (50000 новых пользователейв неделю)
+
+   [Armor5Games]: https://armor5games.github.io
+   [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
@@ -16,7 +27,7 @@
      выделяется своим размером: более 50-ти моделей
 
    * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
-     Например, приём платежей через Paypal, а также WebRTC-видеоконференция
+     Например, приём платежей через Paypal, а также WebRTC-видеоконференцияц
 
    * Прототип <span title="Salemed">системы заказа магниторезонансной
      томографии</span> на Clojure и PostgreSQL
