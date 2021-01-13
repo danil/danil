@@ -59,7 +59,7 @@
 
    [Waveaccess]: https://waveaccess.ru
    [Medapp]: http://choice-hs.com
-   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
+   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
 5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
 
