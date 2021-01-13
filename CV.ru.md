@@ -74,9 +74,9 @@
    [Оморфии]: https://omorfia.ru
 
 6. <span title="09.2010—04.2012">2010—2012</span> OOO Аверс  
-   Дописывал [фриланс биржу][] на Ruby on Rails, MySQL и Sphinx
+   Дописывал [фриланс биржу][] на Ruby on Rails, MySQL, Sphinx
    поиск по <span title="Классификатор адресов Российской Федерации">КЛАДР*</span>,
-   и PDF налоговая декларация для ИП
+   и генератор PDF налоговой декларации для ИП
 
    [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
