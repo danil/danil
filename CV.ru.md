@@ -4,10 +4,10 @@
 
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][]
 
-   * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s. Например
-     кодек [ISO 8583][], антифрод, [SQL логирование][]. Плюс сервисы на
-     Ruby on Rails: апишка с Mastercard MDES[*][MDES] и платёжный шлюз c
-     Точкой[*][Tochka]
+   Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s. Например
+   кодек [ISO 8583][], антифрод, [SQL логирование][]. Плюс сервисы на
+   Ruby on Rails: апишка с Mastercard MDES[*][MDES] и платёжный шлюз c
+   Точкой[*][Tochka]
 
    [Рокетбанк]: https://rocketbank.ru
    [ISO 8583]: https://github.com/danil/iso8583
@@ -17,10 +17,10 @@
 
 2. <span title="07.2018—08.2018">2016—2018</span> [Xena Exchange][]
 
-   * Бэкенд для веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
-     K8s. Например восстановление пароля, кэширование новостей, а также
-     проксирование финансовых отчетов из основного приложения в админку на
-     <span title="https://github.com/strongloop">Loopback*</span>
+   Бэкенд для веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
+   K8s. Например восстановление пароля, кэширование новостей, а также
+   проксирование финансовых отчетов из основного приложения в админку на
+   <span title="https://github.com/strongloop">Loopback*</span>
 
    [Xena Exchange]: https://xena.exchange
 
