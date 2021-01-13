@@ -4,7 +4,16 @@
 
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][]
 
+   * Бэкенд для банковского приложения на Go, PostgreSQL, RabbitMQ, K8s
+     Например кодек [ISO 8583][], антифрод, [SQL логирование][],
+     а также API с Mastercard [MDES][] и платёжный API c Точкой[*][Tochka] на
+     Ruby on Rails
+
    [Рокетбанк]: https://rocketbank.ru
+   [ISO 8583]: https://github.com/danil/iso8583
+   [SQL логирование]: https://github.com/danil/sqltee
+   [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
+   [Tochka]: https://tochka.com
 
 2. <span title="07.2018—08.2018">2016—2018</span> [Xena Exchange][]
 
@@ -34,7 +43,7 @@
      <span title="https://en.wikipedia.org/wiki/Medicines_reconciliation">сверки*
      терапии/лекарственных средств</span>
      на Ruby on Rails и PostgreSQL.
-     Система документооборота медицинского учреждения[*][medapp]
+     Система документооборота медицинского учреждения[*][Medapp]
      выделяется своим размером: более 50-ти моделей
 
    * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
@@ -49,7 +58,7 @@
      и FHIR<sub><sup>)</sup></sub>
 
    [Waveaccess]: https://waveaccess.ru
-   [medapp]: http://choice-hs.com
+   [Medapp]: http://choice-hs.com
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
 
 5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
