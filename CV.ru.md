@@ -4,7 +4,7 @@
 
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][]
 
-   * Бэкенд для банковского приложения на Go, PostgreSQL, RabbitMQ, K8s
+   * Бэкенд для банковского приложения на Go, PostgreSQL, RabbitMQ, K8s.
      Например кодек [ISO 8583][], антифрод, [SQL логирование][],
      а также API с Mastercard [MDES][] и платёжный API c Точкой[*][Tochka] на
      Ruby on Rails
