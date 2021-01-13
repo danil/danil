@@ -10,6 +10,11 @@
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
 
+   * Автоматизация сертификации сверки терапии/лекарственных средств
+     на Ruby on Rails и PostgreSQL.
+     Система документооборота медицинского учреждения[*][medapp]
+     выделяется своим размером: более 50-ти моделей
+
    * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
      Например, приём платежей через Paypal, а также WebRTC-видеоконференция
 
@@ -22,6 +27,7 @@
      и FHIR<sub><sup>)</sup></sub>
 
    [Waveaccess]: https://waveaccess.ru
+   [medapp]: http://choice-hs.com
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
 
 5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
@@ -52,7 +58,7 @@
    [Сайт хоккейного клуба СКА]: https://ska.ru
 
 8. <span title="11.2004—03.2008">2004—2008</span> [Дараут сервис][]  
-   Переписал фронт <span title="сайт бронирования гостиниц">hotelguide.com*</span>
+   Переписал фронт для <span title="hotelguide.com">сайта бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
