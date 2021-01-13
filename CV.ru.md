@@ -6,7 +6,7 @@
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s. Например
      кодек [ISO 8583][], антифрод, [SQL логирование][]. Плюс сервисы на
-     Ruby on Rails: апишка с Mastercard [MDES][] и платёжный шлюз c
+     Ruby on Rails: апишка с Mastercard MDES[*][MDES] и платёжный шлюз c
      Точкой[*][Tochka]
 
    [Рокетбанк]: https://rocketbank.ru
