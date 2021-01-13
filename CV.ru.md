@@ -5,8 +5,9 @@
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s. Например
-     кодек [ISO 8583][], антифрод, [SQL логирование][]. Также на Ruby on Rails
-     API с Mastercard [MDES][] и платёжный API c Точкой[*][Tochka]
+     кодек [ISO 8583][], антифрод, [SQL логирование][]. Сервисы на
+     Ruby on Rails: апишка с Mastercard [MDES][] и платёжный API c
+     Точкой[*][Tochka]
 
    [Рокетбанк]: https://rocketbank.ru
    [ISO 8583]: https://github.com/danil/iso8583
