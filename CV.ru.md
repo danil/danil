@@ -21,8 +21,7 @@
    * Бэкенд веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
      K8s. Например восстановление пароля, кэширование новостей.
 
-   * Плюс проксирование финансовых отчетов из основного приложения в админку
-     через
+   * Проксирование финансовых отчетов из основного приложения в админку через
      <span title="https://www.postgresql.org/docs/current/postgres-fdw.html">PostgreSQL
      foreign-data wrapper*</span> и
      <span title="https://github.com/strongloop">Loopback*</span>
