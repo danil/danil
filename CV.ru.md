@@ -19,7 +19,7 @@
 2. 07.2018—08.2018 <span title="Xena Exchange">[Xena][]</span>
 
    * Бэкенд веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
-     K8s. Например восстановление пароля, кэширование новостей.
+     K8s. Например восстановление пароля, кэширование новостей
 
    * Проксирование финансовых отчетов из основного приложения в админку через
      <span title="https://www.postgresql.org/docs/current/postgres-fdw.html">PostgreSQL
