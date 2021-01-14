@@ -34,7 +34,7 @@
 
    * Бэкенд игрового мобильного приложения [Rise of Pirates][] на
      Go, MySQL и MongoDB. Например приём платежей через Apple Store. Приложение
-     с лёгкостью выдерживало 120 RPS (50000 новых пользователейв неделю)
+     с лёгкостью выдерживало 120 RPS (50000 новых пользователей в неделю)
 
    [Armor5Games]: https://armor5games.github.io
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
