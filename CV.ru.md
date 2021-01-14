@@ -16,7 +16,7 @@
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
    [Tochka]: https://tochka.com
 
-2. 07.2018—08.2018 [Xena Exchange][]
+2. 07.2018—08.2018 <span title="Xena Exchange">[Xena][]</span>
 
    * Бэкенд веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
      K8s. Например восстановление пароля, кэширование новостей.
@@ -27,7 +27,7 @@
      foreign-data wrapper*</span> и
      <span title="https://github.com/strongloop">Loopback*</span>
 
-   [Xena Exchange]: https://xena.exchange
+   [Xena]: https://xena.exchange
 
 3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
 
