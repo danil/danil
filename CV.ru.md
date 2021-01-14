@@ -17,7 +17,7 @@
 
 2. <span title="07.2018—08.2018">2016—2018</span> [Xena Exchange][]
 
-   Бэкенд для веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
+   Бэкенд веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
    K8s. Например восстановление пароля, кэширование новостей. Плюс
    проксирование финансовых отчетов из основного приложения в админку на
    <span title="https://github.com/strongloop">Loopback*</span>
@@ -26,11 +26,11 @@
 
 3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
 
-   * Бэкенд для игрового мобильного приложения Bing Han Garden на
+   * Бэкенд игрового мобильного приложения Bing Han Garden на
      Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
      Apple Store и Google Play. Готовился к выпуску TCP сервер реального времени
 
-   * Бэкенд для игрового мобильного приложения [Rise of Pirates][] на
+   * Бэкенд игрового мобильного приложения [Rise of Pirates][] на
      Go, MySQL и MongoDB. Например приём платежей через Apple Store. Приложение
      с лёгкостью выдерживало 120 RPS (50000 новых пользователейв неделю)
 
@@ -89,7 +89,7 @@
    [Сайт хоккейного клуба СКА]: https://ska.ru
 
 8. <span title="11.2004—03.2008">2004—2008</span> [Дараут сервис][]  
-   Переписал фронт для <span title="hotelguide.com">сайта бронирования гостиниц</span>
+   Переписал фронт <span title="hotelguide.com">сайта бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
