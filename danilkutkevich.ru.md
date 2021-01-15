@@ -1,4 +1,4 @@
-[Curriculum vitae in english][]
+<sub>[Curriculum vitae in english][]</sub>
 
 # Данил Куткевич — бэкенд-разработчик
 
@@ -112,6 +112,6 @@
 
 [Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича]: https://sut.ru
 
-[Curriculum vitae in english][]
+<sub>[Curriculum vitae in english][]</sub>
 
 [Curriculum vitae in english]: ./danilkutkevich.en.md#readme
