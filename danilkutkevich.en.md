@@ -74,4 +74,4 @@ Information Technology, 3rd year
 
 [Резюме на русском языке][]
 
-[Резюме на русском языке]: ./CV.ru.md#readme
+[Резюме на русском языке]: ./danilkutkevich.ru.md#readme
