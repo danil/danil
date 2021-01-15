@@ -1,4 +1,4 @@
-<sup>[Резюме на русском языке][]</sup>
+<sub><sup>[Резюме на русском языке][]</sup></sub>
 
 # Danil Kutkevich — Back-end developer
 
@@ -72,6 +72,6 @@ Information Technology, 3rd year
 
 [The Bonch-Bruevich Saint-Petersburg State University of Telecommunications]: https://sut.ru
 
-<sub>[Резюме на русском языке][]</sub>
+<sub><sup>[Резюме на русском языке][]</sup></sub>
 
 [Резюме на русском языке]: ./danilkutkevich.ru.md#readme
