@@ -2,13 +2,19 @@
 
 ## Work experience
 
-1.
+1. <span title="08.2018—01.2021">2018—2021</span> [Rocketbank][]
 
-2.
+2. <span title="07.2018—08.2018">2016—2018</span> [Xena Exchange][]
 
-3.
+3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
+
+   * Holiadvice
+     
+     I have developed <span title="holiadvice.com">telehealth system</span>  the back end. For example, acceptance of payments
+     via Paypal, as well as WebRTC-videoconference
+     Ruby on Rails and PostgreSQL WebRTC
 
    * Developing backend on Clojure and PostgreSQL for the Salemed — electronic
      marketplace for <span title="Magnetic Resonance Imaging">MRI*</span>
@@ -47,7 +53,7 @@
    [SKA Ice Hockey Club]: https://ska.ru
 
 8. <span title="11.2004—03.2008">2004—2008</span> [Darout Service][]  
-   I have rewritten frontend of the <span title="hotel booking site">hotelguide.com*</span>
+   I have rewritten frontend of the <span title="hotelguide.com">hotel booking site</span>
    from ColdFusion to JavaServer Faces
 
    [Darout Service]: http://darout.ru
