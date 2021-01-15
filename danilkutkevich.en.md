@@ -1,3 +1,5 @@
+[Резюме на русском языке][]
+
 # Danil Kutkevich — Back-end developer
 
 ## Work experience
@@ -70,4 +72,6 @@ Information Technology, 3rd year
 
 [The Bonch-Bruevich Saint-Petersburg State University of Telecommunications]: https://sut.ru
 
-[Резюме на русском языке](./CV.ru.md#readme)
+[Резюме на русском языке][]
+
+[Резюме на русском языке]: ./CV.ru.md#readme

@@ -1,3 +1,5 @@
+[Curriculum vitae is in english][]
+
 # Данил Куткевич — бэкенд-разработчик
 
 ## Опыт работы
@@ -110,4 +112,6 @@
 
 [Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича]: https://sut.ru
 
-[Curriculum vitae is in english](./CV.en.md#readme)
+[Curriculum vitae is in english][]
+
+[Curriculum vitae is in english]: ./danilkutkevich.en.md#readme
