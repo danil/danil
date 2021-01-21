@@ -11,7 +11,7 @@
 [go8583]: https://github.com/danil/iso8583
 [rocketbank]: https://rocketbank.ru
 [armor5games]: https://armor5games.github.io
-[medapp]: https://choice-hs.com
+[medapp]: http://choice-hs.com
 
 ## Опыт работы
 
