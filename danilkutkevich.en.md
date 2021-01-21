@@ -60,17 +60,19 @@
 
    [Darout Service]: http://darout.ru
 
-9. <span title="06.2003—11.2004">2003—2004</span> [Investment Company Lenmontazhstroy][]  
+9. <span title="06.2003—11.2004">2003—2004</span>
+   [Investment Company Lenmontazhstroy][]  
    My first project is a corporate site on PHP and MySQL
 
    [Investment Company Lenmontazhstroy]: https://lmsic.com
 
 ## Education
 
-[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][] 1997—2001  
+[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][bonch]
+1997—2001  
 Information Technology, 3rd year
 
-[The Bonch-Bruevich Saint-Petersburg State University of Telecommunications]: https://sut.ru
+[bonch]: https://sut.ru
 
 <sub>[Резюме на русском языке][]</sub>
 

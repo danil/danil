@@ -28,7 +28,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 ## Опыт работы
 
-1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank.ru]
+1. <span title="08.2018—01.2021">2018—2021</span>
+   [Рокетбанк][rocketbank.ru]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
@@ -41,7 +42,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
    [Tochka]: https://tochka.com
 
-2. 07.2018—08.2018 <span title="Xena Exchange">[Xena][]</span>
+2. 07.2018—08.2018
+   <span title="Xena Exchange">[Xena][]</span>
 
    * Бэк веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
      K8s. Например восстановление пароля, кэширование новостей
@@ -52,7 +54,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [Xena]: https://xena.exchange
    [loopback]: https://github.com/strongloop
 
-3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][armor5games]
+3. <span title="10.2016—05.2018">2016—2018</span>
+   [Armor5Games][armor5games]
 
    * Бэк игрового мобильного приложения Bing Han Garden на
      Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
@@ -64,7 +67,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
-4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
+4. <span title="06.2013—08.2016">2013—2016</span>
+   [Waveaccess][]
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL.
@@ -83,7 +87,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [Waveaccess]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
-5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
+5. <span title="04.2012—06.2013">2012—2013</span>
+   [Молинос][]
 
    * [НеваРеактив][] магазин химических реактивов на Ruby on Rails и MySQL.
      Из интересного — полнотекстовой поиск на Sphinx
@@ -95,37 +100,42 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [НеваРеактив]: https://nevareaktiv.ru
    [Оморфии]: https://omorfia.ru
 
-6. <span title="09.2010—04.2012">2010—2012</span> OOO Аверс  
+6. <span title="09.2010—04.2012">2010—2012</span>
+   OOO Аверс  
    Дописывал [фриланс биржу][] на Ruby on Rails, MySQL, Sphinx
    поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
    [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
 
-7. <span title="03.2008—09.2010">2008—2010</span> [Джон студия][]  
+7. <span title="03.2008—09.2010">2008—2010</span>
+   [Джон студия][]  
    [Сайт хоккейного клуба СКА][] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
 
    [Джон студия]: https://john.ru
    [Сайт хоккейного клуба СКА]: https://ska.ru
 
-8. <span title="11.2004—03.2008">2004—2008</span> [Дараут сервис][]  
+8. <span title="11.2004—03.2008">2004—2008</span>
+   [Дараут сервис][]  
    Переписал фронт <span title="hotelguide.com">сайта бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
    [Дараут сервис]: http://darout.ru
 
-9. <span title="06.2003—11.2004">2003—2004</span> [Инвестиционная Компания Ленмонтажстрой][]  
+9. <span title="06.2003—11.2004">2003—2004</span>
+   [Инвестиционная Компания Ленмонтажстрой][]  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL
 
    [Инвестиционная Компания Ленмонтажстрой]: https://lmsic.com
 
 ## Образование
 
-[Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича][] 1997—2001  
+[Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича][bonch]
+1997—2001  
 Незаконченное высшее. Факультет многоканальных телекоммуникационных систем
 
-[Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича]: https://sut.ru
+[bonch]: https://sut.ru
 
 <sub>[Curriculum vitae in english][]</sub>
 
