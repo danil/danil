@@ -48,7 +48,7 @@
 
    * Бэкенд игрового мобильного приложения Bing Han Garden на
      Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
-     Apple Store и Google Play. Готовился к выпуску TCP сервер реального времени
+     Apple Store и Google Play. Готовился TCP сервер реального времени
 
    * Бэкенд игрового мобильного приложения [Rise of Pirates][] на
      Go, MySQL и MongoDB. Например приём платежей через Apple Store.
