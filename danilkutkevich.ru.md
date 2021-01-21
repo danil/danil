@@ -11,6 +11,8 @@
 
 Работаю сам по себе и в команде единомышленников)
 
+Расчитываю на 250K рублей net.
+
 [go8583]: https://github.com/danil/iso8583
 [sqltee]: https://github.com/danil/sqltee
 [rubycda]: https://github.com/hospital-systems/ruby-cda
