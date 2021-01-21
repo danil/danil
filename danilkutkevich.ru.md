@@ -5,12 +5,13 @@
 Привет!
 
 Я Данил, пишу [бэк][sqltee] на [Go][go8583]. До 2016 года были рельсы.
-Писал [финтех][rocketbank] и [геймдев][armor5games].
+Писал [финтех][rocketbank], [геймдев][armor5games] и [медицину][medapp].
 
 [sqltee]: https://github.com/danil/sqltee
 [go8583]: https://github.com/danil/iso8583
 [rocketbank]: https://rocketbank.ru
 [armor5games]: https://armor5games.github.io
+[medapp]: http://choice-hs.com
 
 ## Опыт работы
 
@@ -58,7 +59,7 @@
      <span title="https://en.wikipedia.org/wiki/Medicines_reconciliation">сверки*
      терапии/лекарственных средств</span>
      на Ruby on Rails и PostgreSQL.
-     Система документооборота медицинского учреждения[*][Medapp]
+     Система документооборота медицинского учреждения[*][medapp]
      выделяется своим размером: более 50-ти моделей
 
    * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
@@ -73,7 +74,6 @@
      и FHIR<sub><sup>)</sup></sub>
 
    [Waveaccess]: https://waveaccess.ru
-   [Medapp]: http://choice-hs.com
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
 5. <span title="04.2012—06.2013">2012—2013</span> [Молинос][]
