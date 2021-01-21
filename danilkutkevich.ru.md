@@ -47,11 +47,10 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      K8s. Например восстановление пароля, кэширование новостей
 
    * Проксирование финансовых отчетов из основного приложения в админку через
-     <span title="https://www.postgresql.org/docs/current/postgres-fdw.html">PostgreSQL
-     foreign-data wrapper*</span> и
-     <span title="https://github.com/strongloop">Loopback*</span>
+     PostgreSQL foreign-data wrapper и Loopback[*][loopback]
 
    [Xena]: https://xena.exchange
+   [loopback]: https://github.com/strongloop
 
 3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][armor5games]
 
@@ -98,8 +97,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 6. <span title="09.2010—04.2012">2010—2012</span> OOO Аверс  
    Дописывал [фриланс биржу][] на Ruby on Rails, MySQL, Sphinx
-   поиск по <span title="Классификатор адресов Российской Федерации">КЛАДР*</span>,
-   генератор PDF налоговой декларации для ИП
+   поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
    [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
