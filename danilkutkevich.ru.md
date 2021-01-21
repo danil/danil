@@ -18,6 +18,12 @@
 [armor5games]: https://armor5games.github.io
 [medapp]: http://choice-hs.com
 
+Эл. почта <danil@kutkevich.org>  
+Расположение Москва/Санкт-Петербург, Россия  
+Телефон [+7 921 338 0130](tel:+7 921 338 0130)  
+Гитхаб/[danil](https://github.com/danil)  
+VK/[danilkutkevich](https://vk.com/danilkutkevich)
+
 ## Опыт работы
 
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank.ru]
@@ -32,12 +38,6 @@
    [rocketbank.ru]: https://rocketbank.ru
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
    [Tochka]: https://tochka.com
-
-Эл. почта <danil@kutkevich.org>  
-Расположение Москва/Санкт-Петербург, Россия  
-Телефон [+7 921 338 0130](tel:+7 921 338 0130)  
-Гитхаб/[danil](https://github.com/danil)  
-VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 2. 07.2018—08.2018 <span title="Xena Exchange">[Xena][]</span>
 
