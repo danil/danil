@@ -4,13 +4,11 @@
 
 Привет!
 
-Я Данил, пишу [бэк][goback1] на [Go][goback2]. До 2016 года были рельсы.
-
-[goback1]: https://github.com/danil/sqltee
-[goback2]: https://github.com/danil/iso8583
-
+Я Данил, пишу [бэк][sqltee] на [Go][go8583]. До 2016 года были рельсы.
 Писал [финтех][rocketbank] и [геймдев][armor5games].
 
+[sqltee]: https://github.com/danil/sqltee
+[go8583]: https://github.com/danil/iso8583
 [rocketbank]: https://rocketbank.ru
 [armor5games]: https://armor5games.github.io
 
