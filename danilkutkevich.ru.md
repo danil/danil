@@ -60,7 +60,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Бэк игрового мобильного приложения [Rise of Pirates][] на
      Go, MySQL и MongoDB. Например приём платежей через Apple Store.
-     Выдержал 120 RPS, 50K новых пользователей в неделю
+     Выдержал 120 RPS, 50k новых пользователей в неделю
 
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
