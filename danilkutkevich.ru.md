@@ -70,9 +70,7 @@
      томографии</span> на Clojure и PostgreSQL
 
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
-     [Fhirbase][]
-     <sub><sup>(</sup></sub>хранилище медицинских данных на основе PostgreSQL
-     и FHIR<sub><sup>)</sup></sub>
+     [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL и FHIR
 
    [Waveaccess]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
