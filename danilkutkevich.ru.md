@@ -14,7 +14,7 @@
 
 ## Опыт работы
 
-1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank]
+1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank.ru]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s.
      Например кодек [ISO 8583][], антифрод, [SQL логирование][]
@@ -22,6 +22,7 @@
    * Сервисы на Ruby on Rails: апишка с Mastercard MDES[*][MDES],
      платёжный шлюз c Точкой[*][Tochka]
 
+   [rocketbank.ru]: https://rocketbank.ru
    [ISO 8583]: https://github.com/danil/iso8583
    [SQL логирование]: https://github.com/danil/sqltee
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
