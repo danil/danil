@@ -4,15 +4,15 @@
 
 Привет!
 
-Я Данил, пишу [бэк][sqltee] на [Go][go8583]. До 2016 года был [руби][rubycda].
+Я Данил, пишу [бэк][go8583] на [Go][sqltee]. До 2016 года был [руби][rubycda].
 Писал [финтех][rocketbank], [геймдев][armor5games] и [медицину][medapp].
 
 Справлялся с 120 RPS, хочу больше)
 
 Работаю сам по себе и в команде единомышленников)
 
-[sqltee]: https://github.com/danil/sqltee
 [go8583]: https://github.com/danil/iso8583
+[sqltee]: https://github.com/danil/sqltee
 [rubycda]: https://github.com/hospital-systems/ruby-cda
 [rocketbank]: https://rocketbank.ru
 [armor5games]: https://armor5games.github.io
