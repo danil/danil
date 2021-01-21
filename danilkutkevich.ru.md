@@ -2,9 +2,21 @@
 
 # Данил Куткевич — бэкенд-разработчик
 
+Привет!
+
+Я Данил, пишу [бэк][goback1] на [Go][goback2]. До 2016 года были рельсы.
+
+[goback1]: https://github.com/danil/sqltee
+[goback2]: https://github.com/danil/iso8583
+
+Писал [финтех][rocketbank] и [геймдев][armor5games].
+
+[rocketbank]: https://rocketbank.ru
+[armor5games]: https://armor5games.github.io
+
 ## Опыт работы
 
-1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][]
+1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s.
      Например кодек [ISO 8583][], антифрод, [SQL логирование][]
@@ -12,7 +24,6 @@
    * Сервисы на Ruby on Rails: апишка с Mastercard MDES[*][MDES],
      платёжный шлюз c Точкой[*][Tochka]
 
-   [Рокетбанк]: https://rocketbank.ru
    [ISO 8583]: https://github.com/danil/iso8583
    [SQL логирование]: https://github.com/danil/sqltee
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
@@ -30,7 +41,7 @@
 
    [Xena]: https://xena.exchange
 
-3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
+3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][armor5games]
 
    * Бэкенд игрового мобильного приложения Bing Han Garden на
      Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
@@ -40,7 +51,6 @@
      Go, MySQL и MongoDB. Например приём платежей через Apple Store. Приложение
      с лёгкостью выдерживало 120 RPS (50000 новых пользователей в неделю)
 
-   [Armor5Games]: https://armor5games.github.io
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
 4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
