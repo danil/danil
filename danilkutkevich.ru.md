@@ -33,6 +33,12 @@
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
    [Tochka]: https://tochka.com
 
+Эл. почта <danil@kutkevich.org>  
+Расположение Москва/Санкт-Петербург, Россия  
+Телефон [+7 921 338 0130](tel:+7 921 338 0130)  
+Гитхаб/[danil](https://github.com/danil)  
+VK/[danilkutkevich](https://vk.com/danilkutkevich)
+
 2. 07.2018—08.2018 <span title="Xena Exchange">[Xena][]</span>
 
    * Бэк веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
