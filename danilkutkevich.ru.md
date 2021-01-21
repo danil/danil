@@ -20,7 +20,7 @@
 
 Эл. почта <danil@kutkevich.org>  
 Расположение Москва/Санкт-Петербург  
-Телефон <a href="tel:+79213380130">+7 921 338 0130</a>  
+Телефон +7 921 338 0130  
 Гитхаб/[danil](https://github.com/danil)  
 VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
