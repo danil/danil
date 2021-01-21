@@ -22,7 +22,8 @@
 
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank.ru]
 
-   * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s.
+   * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — выдержал 120 RPS,
+     гарания ответа Мастеркарду/TSYS менее 500 миллисекунд.
      Например кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
 
    * Сервисы на Ruby on Rails: апишка с Mastercard MDES[*][MDES],
