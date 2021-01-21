@@ -19,7 +19,7 @@
 [medapp]: http://choice-hs.com
 
 Эл. почта <danil@kutkevich.org>  
-Расположение Москва/Санкт-Петербург  
+Расположение Москва/СПб  
 Телефон +7 921 338 0130  
 Гитхаб/[danil](https://github.com/danil)  
 VK/[danilkutkevich](https://vk.com/danilkutkevich)
