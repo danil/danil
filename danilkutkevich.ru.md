@@ -31,7 +31,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 1. <span title="08.2018—01.2021">2018—2021</span> [Рокетбанк][rocketbank.ru]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — выдержал 120 RPS
-     с гарантией ответа Мастеркарду/TSYS менее 500 миллисекунд.
+     с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
 
    * Сервисы на Ruby on Rails: апишка с Mastercard MDES[*][MDES],
