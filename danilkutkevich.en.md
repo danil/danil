@@ -44,7 +44,7 @@
 6. <span title="09.2010—04.2012">2010—2012</span>
    Avers  
    [Freelancing platform][prohq.ru] on Ruby on Rails and MySQL and also
-   there the Sphinx for search for
+   there the Sphinx Search for
    <span title="Classifier of addresses of the Russian Federation">KLADR*</a>
    addresses and generator of PDF tax return for sole proprietors
 
