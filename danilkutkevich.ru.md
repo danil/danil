@@ -71,8 +71,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [Waveaccess][waveaccess.ru]
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
-     на Ruby on Rails и PostgreSQL.
-     Система документооборота медицинского учреждения[*][medapp], размером более 50-ти моделей
+     на Ruby on Rails и PostgreSQL. Система документооборота медицинского
+     учреждения[*][medapp], размером более 50-ти моделей
 
    * <span title="Holiadvice">Телемедицинская система</span>
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,

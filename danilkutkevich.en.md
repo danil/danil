@@ -19,9 +19,10 @@
 4. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
-   * Automation of certification of the therapy/medications reconciliation on
-     Ruby on Rails and PostgreSQL. Healthcare Document Management System[*][medapp],
-     more than 50 models in size
+   * Automation of certification of the
+     [therapy/medications reconciliation][rubycda] on Ruby on Rails and
+     PostgreSQL. Healthcare Document Management System[*][medapp], more than
+     50 models in size
 
    * <span title="holiadvice.com">Telehealth system</span> on Ruby on Rails
      and PostgreSQL. For example, Paypal payments,
