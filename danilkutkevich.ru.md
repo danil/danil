@@ -75,8 +75,9 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      Система документооборота медицинского учреждения[*][medapp],
      размером более 50-ти моделей
 
-   * <span title="Holiadvice">Телемедицинская система</span> на Ruby on Rails и PostgreSQL.
-     Например, приём платежей через Paypal, а также WebRTC-видеоконференция
+   * <span title="Holiadvice">Телемедицинская система</span>
+     на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
+     а также WebRTC-видеоконференция
 
    * Прототип <span title="Salemed">системы заказа магниторезонансной
      томографии</span> на Clojure и PostgreSQL
@@ -102,32 +103,32 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 6. <span title="09.2010—04.2012">2010—2012</span>
    OOO Аверс  
-   Дописывал [фриланс биржу][] на Ruby on Rails, MySQL, Sphinx
+   Дописывал [фриланс биржу][prohq.ru] на Ruby on Rails, MySQL, Sphinx
    поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
-   [фриланс биржу]: http://prohq.ru
    [prohq.ru]: http://prohq.ru
 
 7. <span title="03.2008—09.2010">2008—2010</span>
-   [Джон студия][]  
-   [Сайт хоккейного клуба СКА][] на Ruby on Rails и PostgreSQL.
+   [Джон студия][john.ru]  
+   [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
 
-   [Джон студия]: https://john.ru
-   [Сайт хоккейного клуба СКА]: https://ska.ru
+   [john.ru]: https://john.ru
+   [ska.ru]: https://ska.ru
 
 8. <span title="11.2004—03.2008">2004—2008</span>
-   [Дараут сервис][]  
-   Переписал фронт <span title="hotelguide.com">сайта бронирования гостиниц</span>
+   [Дараут сервис][darout]  
+   Переписал фронт
+   <span title="hotelguide.com">сайта бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
-   [Дараут сервис]: http://darout.ru
+   [darout]: http://darout.ru
 
 9. <span title="06.2003—11.2004">2003—2004</span>
-   [Инвестиционная Компания Ленмонтажстрой][]  
+   [Инвестиционная Компания Ленмонтажстрой][lmsic]  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL
 
-   [Инвестиционная Компания Ленмонтажстрой]: https://lmsic.com
+   [lmsic]: https://lmsic.com
 
 ## Образование
 
