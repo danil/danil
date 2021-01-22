@@ -2,6 +2,9 @@
 
 # Danil Kutkevich — Back-end developer
 
+[rubycda]: https://github.com/hospital-systems/ruby-cda
+[medapp]: http://choice-hs.com
+
 ## Work experience
 
 1. <span title="08.2018—01.2021">2018—2021</span>
@@ -16,6 +19,10 @@
 4. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
+   * Automation of certification of the therapy/medications reconciliation on
+     Ruby on Rails and PostgreSQL. Healthcare Document Management System[*][medapp],
+     more than 50 models in size
+
    * <span title="holiadvice.com">Telehealth system</span> on Ruby on Rails
      and PostgreSQL. For example, Paypal payments,
      as well as WebRTC video conference
@@ -23,8 +30,8 @@
    * Prototype of the <span title="Salemed">electronic marketplace for the
      Magnetic Resonance Imaging</span> on Clojure and PostgreSQL
 
-   * Developed a performance testing which triggered by CI on AWS
-     for the [Fhirbase][]/data storage based on PostgreSQL and FHIR
+   * Performance testing system which triggered by CI on AWS
+     for the [Fhirbase][]/medical data storage based on PostgreSQL and FHIR
 
    [waveaccess.ru]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
