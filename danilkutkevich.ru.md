@@ -68,7 +68,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
 4. <span title="06.2013—08.2016">2013—2016</span>
-   [Waveaccess][]
+   [Waveaccess][waveaccess.ru]
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL.
@@ -85,21 +85,21 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
      [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL и FHIR
 
-   [Waveaccess]: https://waveaccess.ru
+   [waveaccess.ru]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
 5. <span title="04.2012—06.2013">2012—2013</span>
-   [Молинос][]
+   [Молинос][molinos.ru]
 
-   * [НеваРеактив][] магазин химических реактивов на Ruby on Rails и MySQL.
-     Из интересного — полнотекстовой поиск на Sphinx
+   * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
+     на Ruby on Rails и MySQL. Из интересного — полнотекстовой поиск на Sphinx
 
-   * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][] —
+   * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][omorfia.ru] —
      постоянно действующего конкурса
 
-   [Молинос]: https://molinos.ru
-   [НеваРеактив]: https://nevareaktiv.ru
-   [Оморфии]: https://omorfia.ru
+   [molinos.ru]: https://molinos.ru
+   [nevareaktiv.ru]: https://nevareaktiv.ru
+   [omorfia.ru]: https://omorfia.ru
 
 6. <span title="09.2010—04.2012">2010—2012</span>
    OOO Аверс  

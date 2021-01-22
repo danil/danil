@@ -4,42 +4,43 @@
 
 ## Work experience
 
-1. <span title="08.2018—01.2021">2018—2021</span> [Rocketbank][]
+1. <span title="08.2018—01.2021">2018—2021</span>
+   [Rocketbank][]
 
-2. <span title="07.2018—08.2018">2016—2018</span> [Xena Exchange][]
+2. <span title="07.2018—08.2018">2016—2018</span>
+   <span title="Xena Exchange">[Xena][]</span>
 
-3. <span title="10.2016—05.2018">2016—2018</span> [Armor5Games][]
+3. <span title="10.2016—05.2018">2016—2018</span>
+   [Armor5Games][]
 
-4. <span title="06.2013—08.2016">2013—2016</span> [Waveaccess][]
+4. <span title="06.2013—08.2016">2013—2016</span>
+   [Waveaccess][waveaccess.ru]
 
-   * Holiadvice
+   * <span title="holiadvice.com">Telehealth system</span> on Ruby on Rails
+     and PostgreSQL. For example, Paypal payments,
+     as well as WebRTC video conference
 
-     I have developed <span title="holiadvice.com">telehealth system</span>  the back end. For example, acceptance of payments
-     via Paypal, as well as WebRTC-videoconference
-     Ruby on Rails and PostgreSQL WebRTC
-
-   * Developing backend on Clojure and PostgreSQL for the Salemed — electronic
-     marketplace for <span title="Magnetic Resonance Imaging">MRI*</span>
+   * Prototype of the <span title="Salemed">electronic marketplace for the
+     Magnetic Resonance Imaging</span> on Clojure and PostgreSQL
 
    * Developed a performance testing which triggered by CI on AWS
-     for the [Fhirbase][] <sub><sup>(</sup></sub>data storage based on
-     PostgreSQL and FHIR<sub><sup>)</sup></sub>
+     for the [Fhirbase][]/data storage based on PostgreSQL and FHIR
 
-   [Waveaccess]: https://waveaccess.ru
-   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8
+   [waveaccess.ru]: https://waveaccess.ru
+   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
 5. <span title="04.2012—06.2013">2012—2013</span>
-   Molinos
+   [Molinos][molinos.ru]
 
-   * [Nevareaktiv][] supplier of chemicals on Ruby on Rails and MySQL.
-     The most interesting — is the full-text Sphinx search
+   * [Nevareaktiv][nevareaktiv.ru] supplier of chemicals on Ruby on Rails
+     and MySQL. The most interesting — is the full-text Sphinx Search
 
    * Developed a collaborative blog on Ruby on Rails and MySQL
-     for the [Omorfia][] ongoing contest
+     for the [Omorfia][omorfia.ru] ongoing contest
 
-   [Molinos]: https://molinos.ru
-   [Nevareaktiv]: https://nevareaktiv.ru
-   [Omorfia]: https://omorfia.ru
+   [molinos.ru]: https://molinos.ru
+   [nevareaktiv.ru]: https://nevareaktiv.ru
+   [omorfia.ru]: https://omorfia.ru
 
 6. <span title="09.2010—04.2012">2010—2012</span>
    Avers  
