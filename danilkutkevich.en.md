@@ -3,6 +3,7 @@
 # Danil Kutkevich — Back-end developer
 
 [rubycda]: https://github.com/hospital-systems/ruby-cda
+[Armor5Games]: https://armor5games.github.io
 [medapp]: http://choice-hs.com
 
 ## Work experience
@@ -16,16 +17,26 @@
 3. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
+   * Backend of the Bing Han Garden mobile game on Go, PostgreSQL and MongoDB.
+     For example, RESTful API, payments via Google Play/Apple Store,
+     as well as not yet implemented real-time TCP server
+
+   * Backend of the [Rise of Pirates][] mobile game on Go, MySQL and MongoDB.
+     For example, acceptance of payments via Apple Store.
+     120 RPS and 50,000 of new users per week
+
+   [Rise of Pirates]: https://armor5games.github.io/en/games/rise-of-pirates/
+
 4. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
    * Automation of certification of the
      [therapy/medications reconciliation][rubycda] on Ruby on Rails and
-     PostgreSQL. Healthcare Document Management System[*][medapp], more than
-     50 models in size
+     PostgreSQL. Healthcare Document Management System[*][medapp],
+     more than 50 models
 
    * <span title="holiadvice.com">Telehealth system</span> on Ruby on Rails
-     and PostgreSQL. For example, Paypal payments,
+     and PostgreSQL. For example, payments via Paypal,
      as well as WebRTC video conference
 
    * Prototype of the <span title="Salemed">electronic marketplace for the

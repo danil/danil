@@ -5,7 +5,7 @@
 Привет!
 
 Я Данил, пишу [бэк][go8583] на [Go][sqltee]. До 2016го был [руби][rubycda].
-Писал [финтех][rocketbank], [геймдев][armor5games] и [медтех][medapp].
+Писал [финтех][rocketbank], [геймдев][Armor5Games] и [медтех][medapp].
 
 Выдержал 120 RPS, хочу больше)
 
@@ -17,7 +17,7 @@
 [sqltee]: https://github.com/danil/sqltee
 [rubycda]: https://github.com/hospital-systems/ruby-cda
 [rocketbank]: https://rocketbank.ru
-[armor5games]: https://armor5games.github.io
+[Armor5Games]: https://armor5games.github.io
 [medapp]: http://choice-hs.com
 
 Эл. почта <danil@kutkevich.org>  
@@ -55,14 +55,14 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [loopback]: https://github.com/strongloop
 
 3. <span title="10.2016—05.2018">2016—2018</span>
-   [Armor5Games][armor5games]
+   [Armor5Games][]
 
-   * Бэк игрового мобильного приложения Bing Han Garden на
-     Go, PostgreSQL и MongoDB. Например RESTful API, приём платежей через
-     Apple Store и Google Play. Готовился TCP сервер реального времени
+   * Бэк мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
+     Например RESTful API, приём платежей через Apple Store и Google Play.
+     Готовился TCP сервер реального времени
 
-   * Бэк игрового мобильного приложения [Rise of Pirates][] на
-     Go, MySQL и MongoDB. Например приём платежей через Apple Store.
+   * Бэк мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
+     Например приём платежей через Apple Store.
      120 RPS, 50k новых пользователей в неделю
 
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
