@@ -19,7 +19,7 @@
 
    * Backend of the Bing Han Garden mobile game on Go, PostgreSQL and MongoDB.
      For example, RESTful API, payments via Google Play/Apple Store,
-     as well as not yet implemented real-time TCP server
+     as well as not fully implemented real-time TCP server
 
    * Backend of the [Rise of Pirates][] mobile game on Go, MySQL and MongoDB.
      For example, acceptance of payments via Apple Store.
