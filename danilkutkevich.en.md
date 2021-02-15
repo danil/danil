@@ -65,12 +65,10 @@ Work experience
 
 6. <span title="09.2010—04.2012">2010—2012</span>
    Avers  
-   [Freelancing platform][prohq.ru] on Ruby on Rails and MySQL and also
-   there the Sphinx Search for
+   Freelancing platform on Ruby on Rails and MySQL and also there
+   the Sphinx Search for
    <span title="Classifier of addresses of the Russian Federation">KLADR*</a>
    addresses and generator of PDF tax return for sole proprietors
-
-   [prohq.ru]: http://prohq.ru
 
 7. <span title="03.2008—09.2010">2008—2010</span>
    [John studio][john.ru]  

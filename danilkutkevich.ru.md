@@ -104,10 +104,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 6. <span title="09.2010—04.2012">2010—2012</span>
    OOO Аверс  
-   Дописывал [фриланс биржу][prohq.ru] на Ruby on Rails, MySQL, Sphinx
-   поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
-
-   [prohq.ru]: http://prohq.ru
+   Дописывал фриланс биржу на Ruby on Rails, MySQL,
+   Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
 7. <span title="03.2008—09.2010">2008—2010</span>
    [Джон студия][john.ru]  
