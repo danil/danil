@@ -1,4 +1,4 @@
-<sup>[Резюме на русском языке danil.kutkevich.org/ru][]</sup>
+<sup>[Резюме на русском языке: danil.kutkevich.org/ru][]</sup>
 
 Danil Kutkevich — Back-end developer
 ====================================
@@ -101,6 +101,6 @@ Information Technology, 3rd year
 
 [bonch]: https://sut.ru
 
-<sub>[Резюме на русском языке danil.kutkevich.org/ru][]</sub>
+<sub>[Резюме на русском языке: danil.kutkevich.org/ru][]</sub>
 
-[Резюме на русском языке danil.kutkevich.org/ru]: ./danilkutkevich.ru.md#readme
+[Резюме на русском языке: danil.kutkevich.org/ru]: ./danilkutkevich.ru.md#readme
