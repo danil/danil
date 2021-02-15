@@ -37,7 +37,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
 
-   * Сервисы на Ruby on Rails: апишка с Mastercard MDES[*][MDES],
+   * Сервисы на Ruby on Rails: апи с Mastercard MDES[*][MDES],
      платёжный шлюз c Точкой[*][Tochka]
 
    [rocketbank.ru]: https://rocketbank.ru
