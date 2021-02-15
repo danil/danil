@@ -1,12 +1,14 @@
 <sup>[Резюме на русском языке][]</sup>
 
-# Danil Kutkevich — Back-end developer
+Danil Kutkevich — Back-end developer
+====================================
 
 [rubycda]: https://github.com/hospital-systems/ruby-cda
 [Armor5Games]: https://armor5games.github.io
 [medapp]: http://choice-hs.com
 
-## Work experience
+Work experience
+---------------
 
 1. <span title="08.2018—01.2021">2018—2021</span>
    [Rocketbank][]
@@ -92,7 +94,8 @@
 
    [lmsic]: https://lmsic.com
 
-## Education
+Education
+---------
 
 [The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][bonch]
 1997—2001  
