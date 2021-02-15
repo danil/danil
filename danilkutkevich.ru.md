@@ -59,13 +59,13 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 3. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
-   * Бэк мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
-     Например RESTful API, приём платежей через Apple Store и Google Play.
-     Готовился TCP сервер реального времени
-
    * Бэк мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
      Например приём платежей через Apple Store.
      120 RPS, 50k новых пользователей в неделю
+
+   * Бэк мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
+     Например RESTful API, приём платежей через Apple Store и Google Play.
+     Готовился TCP сервер реального времени
 
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
