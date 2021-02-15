@@ -1,4 +1,4 @@
-<sup>[Curriculum vitae in english][]</sup>
+<sup>[Curriculum vitae in english danil.kutkevich.org/en][]</sup>
 
 Данил Куткевич — бэкенд-разработчик
 ===================================
@@ -138,6 +138,6 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 [bonch]: https://sut.ru
 
-<sub>[Curriculum vitae in english][]</sub>
+<sub>[Curriculum vitae in english danil.kutkevich.org/en][]</sub>
 
-[Curriculum vitae in english]: ./danilkutkevich.en.md#readme
+[Curriculum vitae in english danil.kutkevich.org/en]: ./danilkutkevich.en.md#readme
