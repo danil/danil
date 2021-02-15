@@ -27,8 +27,8 @@
 Гитхаб/[danil](https://github.com/danil)  
 VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
-Опыт работы
------------
+Опыт
+----
 
 1. <span title="08.2018—01.2021">2018—2021</span>
    [Рокетбанк][rocketbank.ru]
