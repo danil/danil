@@ -19,13 +19,13 @@ Work experience
 3. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
-   * Backend of the Bing Han Garden mobile game on Go, PostgreSQL and MongoDB.
-     For example, RESTful API, payments via Google Play/Apple Store,
-     as well as not fully implemented real-time TCP server
-
    * Backend of the [Rise of Pirates][] mobile game on Go, MySQL and MongoDB.
      For example, acceptance of payments via Apple Store.
      120 RPS and 50,000 of new users per week
+
+   * Backend of the Bing Han Garden mobile game on Go, PostgreSQL and MongoDB.
+     For example, RESTful API, payments via Google Play/Apple Store,
+     as well as not fully implemented real-time TCP server
 
    [Rise of Pirates]: https://armor5games.github.io/en/games/rise-of-pirates/
 
