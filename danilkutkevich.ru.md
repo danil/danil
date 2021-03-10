@@ -30,7 +30,12 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 Опыт
 ----
 
-1. <span title="08.2018—01.2021">2018—2021</span>
+1. <span title="03.2021—">2021</span>
+   [Озон][ozon.ru]
+
+   [ozon.ru]: https://ozon.ru
+
+2. <span title="08.2018—01.2021">2018—2021</span>
    [Рокетбанк][rocketbank.ru]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
@@ -44,7 +49,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
    [Tochka]: https://tochka.com
 
-2. 07.2018—08.2018
+3. 07.2018—08.2018
    <span title="Xena Exchange">[Xena][]</span>
 
    * Бэк веб-приложения криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
@@ -56,7 +61,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [Xena]: https://xena.exchange
    [loopback]: https://github.com/strongloop
 
-3. <span title="10.2016—05.2018">2016—2018</span>
+4. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
    * Бэк мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
@@ -69,7 +74,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
-4. <span title="06.2013—08.2016">2013—2016</span>
+5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
@@ -89,7 +94,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [waveaccess.ru]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
-5. <span title="04.2012—06.2013">2012—2013</span>
+6. <span title="04.2012—06.2013">2012—2013</span>
    [Молинос][molinos.ru]
 
    * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
@@ -102,12 +107,12 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [nevareaktiv.ru]: https://nevareaktiv.ru
    [omorfia.ru]: https://omorfia.ru
 
-6. <span title="09.2010—04.2012">2010—2012</span>
+7. <span title="09.2010—04.2012">2010—2012</span>
    OOO Аверс  
    Дописывал фриланс биржу на Ruby on Rails, MySQL,
    Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
-7. <span title="03.2008—09.2010">2008—2010</span>
+8. <span title="03.2008—09.2010">2008—2010</span>
    [Джон студия][john.ru]  
    [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
@@ -115,7 +120,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    [john.ru]: https://john.ru
    [ska.ru]: https://ska.ru
 
-8. <span title="11.2004—03.2008">2004—2008</span>
+9. <span title="11.2004—03.2008">2004—2008</span>
    [Дараут сервис][darout]  
    Переписал фронт
    <span title="hotelguide.com">сайта бронирования гостиниц</span>
@@ -123,7 +128,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    [darout]: http://darout.ru
 
-9. <span title="06.2003—11.2004">2003—2004</span>
+10. <span title="06.2003—11.2004">2003—2004</span>
    [Инвестиционная Компания Ленмонтажстрой][lmsic]  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL
 

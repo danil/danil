@@ -10,13 +10,18 @@ Danil Kutkevich — Back-end developer
 Experience
 ----------
 
-1. <span title="08.2018—01.2021">2018—2021</span>
+1. <span title="03.2021—">2021</span>
+   [Ozon][ozon.ru]
+
+   [ozon.ru]: https://ozon.ru
+
+2. <span title="08.2018—01.2021">2018—2021</span>
    [Rocketbank][]
 
-2. <span title="07.2018—08.2018">2016—2018</span>
+3. <span title="07.2018—08.2018">2016—2018</span>
    <span title="Xena Exchange">[Xena][]</span>
 
-3. <span title="10.2016—05.2018">2016—2018</span>
+4. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
    * Backend of the [Rise of Pirates][] mobile game on Go, MySQL and MongoDB.
@@ -29,7 +34,7 @@ Experience
 
    [Rise of Pirates]: https://armor5games.github.io/en/games/rise-of-pirates/
 
-4. <span title="06.2013—08.2016">2013—2016</span>
+5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
    * Automation of certification of the
@@ -50,7 +55,7 @@ Experience
    [waveaccess.ru]: https://waveaccess.ru
    [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
-5. <span title="04.2012—06.2013">2012—2013</span>
+6. <span title="04.2012—06.2013">2012—2013</span>
    [Molinos][molinos.ru]
 
    * [Nevareaktiv][nevareaktiv.ru] supplier of chemicals on Ruby on Rails
@@ -63,14 +68,14 @@ Experience
    [nevareaktiv.ru]: https://nevareaktiv.ru
    [omorfia.ru]: https://omorfia.ru
 
-6. <span title="09.2010—04.2012">2010—2012</span>
+7. <span title="09.2010—04.2012">2010—2012</span>
    Avers  
    Freelancing platform on Ruby on Rails and MySQL and also there
    the Sphinx Search for
    <span title="Classifier of addresses of the Russian Federation">KLADR*</a>
    addresses and generator of PDF tax return for sole proprietors
 
-7. <span title="03.2008—09.2010">2008—2010</span>
+8. <span title="03.2008—09.2010">2008—2010</span>
    [John studio][john.ru]  
    Site of the [SKA Ice Hockey Club][ska.ru] on Ruby on Rails and PostgreSQL.
    The most interesting — it is the Nginx configuration
@@ -78,7 +83,7 @@ Experience
    [john.ru]: https://john.ru
    [ska.ru]: https://ska.ru
 
-8. <span title="11.2004—03.2008">2004—2008</span>
+9. <span title="11.2004—03.2008">2004—2008</span>
    [Darout Service][darout]  
    I have rewritten frontend of the
    <span title="hotelguide.com">hotel booking site</span>
@@ -86,7 +91,7 @@ Experience
 
    [darout]: http://darout.ru
 
-9. <span title="06.2003—11.2004">2003—2004</span>
+10. <span title="06.2003—11.2004">2003—2004</span>
    [Investment Company Lenmontazhstroy][lmisc]  
    My first project is a corporate site on PHP and MySQL
 
