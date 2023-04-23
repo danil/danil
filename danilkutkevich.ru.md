@@ -4,10 +4,11 @@
 
 Привет!
 
-Я Данил, пишу [бэк][go8583] на [Go][sqltee]. До 2016го был [руби][rubycda].
+Я Данил, пишу [бэк][go8583] на [Go][sqltee].
+До 2016-го был [руби][rubycda].
 Писал [финтех][rocketbank], [геймдев][Armor5Games] и [медтех][medapp].
 
-Выдержал 120 RPS, хочу больше)
+Выдержал 200 RPS, хочу больше)
 
 Работаю сам и в команде единомышленников
 
@@ -31,6 +32,21 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 1. <span title="03.2021">2021</span>
    [ОЗОН банк][bank.ozon.ru]
 
+   Разработка банковской платформы на Go, PostgreSQL и K8s, например:
+
+   * Сервис принимающий, для формирования [311-П][]/[440-П][]<sup>[1][440-п цб]</sup>,
+     входящие<sup title="Шаблон проектирования inbox.">2</sup> данные
+     и гарантирующий соответствие один к одному событий подотчётных ФНС
+     и XML сообщений.
+
+   * Система внутри-банковского взаимодействия, передающая исходящие<sup
+     title="Шаблон проектирования outbox.">3</sup> данные
+     и гарантирующая целостность с помощью двухфазного коммита.
+     Система состоит из генератора Go кода и описания контракта на Protobuf
+
+   [311-п]: https://nalog.gov.ru/rn77/about_fts/docs/8926082/
+   [440-п цб]: https://cbr.ru/development/feddc/fns
+   [440-п]: https://nalog.gov.ru/rn77/about_fts/interaction_other/bank_rf/
    [bank.ozon.ru]: https://bank.ozon.ru
 
 2. <span title="08.2018—01.2021">2018—2021</span>
@@ -40,8 +56,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
 
-   * Сервисы на Ruby on Rails: апи с Mastercard MDES[*][mdes],
-     платёжный шлюз c Точкой[*][tochka]
+   * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup>[4][mdes]</sup>,
+     платёжный шлюз c Точкой<sup>[5][tochka]</sup>
 
    [rocketbank.ru]: https://rocketbank.ru
    [mdes]: https://developer.mastercard.com/mdes-customer-service/documentation
@@ -54,7 +70,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      K8s. Например восстановление пароля, кэширование новостей
 
    * Проксирование финансовых отчетов из основного приложения в админку через
-     PostgreSQL foreign-data wrapper и Loopback[*][loopback]
+     PostgreSQL foreign-data wrapper и Loopback<sup>[6][loopback]</sup>
 
    [xena]: https://xena.exchange
    [loopback]: https://github.com/strongloop
@@ -77,7 +93,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
-     учреждения[*][medapp], размером более 50-ти моделей
+     учреждения<sup>[7][medapp]</sup>, размером более 50-ти моделей
 
    * <span title="Holiadvice">Телемедицинская система</span>
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
