@@ -1,7 +1,6 @@
 <sup>[Curriculum vitae in *english*: danil.kutkevich.org/en][]</sup>
 
-Данил Куткевич — бэкенд-разработчик
-===================================
+# Данил Куткевич — бэкенд-разработчик
 
 Привет!
 
@@ -14,12 +13,12 @@
 
 Рассчитываю на вознаграждение 300k рублей net.
 
+[armor5games]: https://armor5games.github.io
 [go8583]: https://github.com/danil/iso8583
-[sqltee]: https://github.com/danil/sqltee
-[rubycda]: https://github.com/hospital-systems/ruby-cda
+[medapp]: https://health-samurai.io
 [rocketbank]: https://rocketbank.ru
-[Armor5Games]: https://armor5games.github.io
-[medapp]: http://choice-hs.com
+[rubycda]: https://github.com/hospital-systems/ruby-cda
+[sqltee]: https://github.com/danil/sqltee
 
 Эл. почта <danil@kutkevich.org>  
 Расположение Москва/СПб  
@@ -27,13 +26,12 @@
 Гитхаб/[danil](https://github.com/danil)  
 VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
-Опыт
-----
+## Опыт
 
-1. <span title="03.2021—">2021</span>
-   [Озон][ozon.ru]
+1. <span title="03.2021">2021</span>
+   [ОЗОН банк][bank.ozon.ru]
 
-   [ozon.ru]: https://ozon.ru
+   [bank.ozon.ru]: https://bank.ozon.ru
 
 2. <span title="08.2018—01.2021">2018—2021</span>
    [Рокетбанк][rocketbank.ru]
@@ -42,12 +40,12 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
 
-   * Сервисы на Ruby on Rails: апи с Mastercard MDES[*][MDES],
-     платёжный шлюз c Точкой[*][Tochka]
+   * Сервисы на Ruby on Rails: апи с Mastercard MDES[*][mdes],
+     платёжный шлюз c Точкой[*][tochka]
 
    [rocketbank.ru]: https://rocketbank.ru
-   [MDES]: https://developer.mastercard.com/mdes-customer-service/documentation
-   [Tochka]: https://tochka.com
+   [mdes]: https://developer.mastercard.com/mdes-customer-service/documentation
+   [tochka]: https://tochka.com
 
 3. 07.2018—08.2018
    <span title="Xena Exchange">[Xena][]</span>
@@ -58,7 +56,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Проксирование финансовых отчетов из основного приложения в админку через
      PostgreSQL foreign-data wrapper и Loopback[*][loopback]
 
-   [Xena]: https://xena.exchange
+   [xena]: https://xena.exchange
    [loopback]: https://github.com/strongloop
 
 4. <span title="10.2016—05.2018">2016—2018</span>
@@ -72,7 +70,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      Например RESTful API, приём платежей через Apple Store и Google Play.
      Готовился TCP сервер реального времени
 
-   [Rise of Pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
+   [rise of pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 
 5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
@@ -92,7 +90,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL и FHIR
 
    [waveaccess.ru]: https://waveaccess.ru
-   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
+   [fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
 
 6. <span title="04.2012—06.2013">2012—2013</span>
    [Молинос][molinos.ru]
@@ -123,7 +121,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 9. <span title="11.2004—03.2008">2004—2008</span>
    [Дараут сервис][darout]  
    Переписал фронт
-   <span title="hotelguide.com">сайта бронирования гостиниц</span>
+   <span title="hotelguide.com">бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
    [darout]: http://darout.ru
@@ -134,8 +132,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    [lmsic]: https://lmsic.com
 
-Образование
------------
+## Образование
 
 [Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича][bonch]
 1997—2001  
@@ -145,4 +142,4 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 <sub>[Curriculum vitae in *english*: danil.kutkevich.org/en][]</sub>
 
-[Curriculum vitae in *english*: danil.kutkevich.org/en]: ./danilkutkevich.en.md#readme
+[curriculum vitae in *english*: danil.kutkevich.org/en]: ./danilkutkevich.en.md#readme

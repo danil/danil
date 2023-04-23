@@ -1,16 +1,14 @@
 <sup>[Резюме на *русском* языке: danil.kutkevich.org/ru][]</sup>
 
-Danil Kutkevich — Back-end developer
-====================================
+# Danil Kutkevich — Back-end developer
 
-[rubycda]: https://github.com/hospital-systems/ruby-cda
-[Armor5Games]: https://armor5games.github.io
+[armor5games]: https://armor5games.github.io
 [medapp]: http://choice-hs.com
+[rubycda]: https://github.com/hospital-systems/ruby-cda
 
-Experience
-----------
+## Experience
 
-1. <span title="03.2021—">2021</span>
+1. <span title="03.2021">2021</span>
    [Ozon][ozon.ru]
 
    [ozon.ru]: https://ozon.ru
@@ -39,7 +37,7 @@ Experience
 
    * Automation of certification of the
      [therapy/medications reconciliation][rubycda] on Ruby on Rails and
-     PostgreSQL. Healthcare Document Management System[*][medapp],
+     PostgreSQL. Healthcare Document Management System[1][medapp],
      more than 50 models
 
    * <span title="holiadvice.com">Telehealth system</span> on Ruby on Rails
@@ -97,8 +95,7 @@ Experience
 
    [lmsic]: https://lmsic.com
 
-Education
----------
+## Education
 
 [The Bonch-Bruevich Saint-Petersburg State University of Telecommunications][bonch]
 1997—2001  
@@ -108,4 +105,4 @@ Information Technology, 3rd year
 
 <sub>[Резюме на *русском* языке: danil.kutkevich.org/ru][]</sub>
 
-[Резюме на *русском* языке: danil.kutkevich.org/ru]: ./danilkutkevich.ru.md#readme
+[резюме на *русском* языке: danil.kutkevich.org/ru]: ./danilkutkevich.ru.md#readme
