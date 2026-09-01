@@ -1,20 +1,14 @@
-<sup>[Резюме на *русском* языке: danil.kutkevich.org/ru][]</sup>
+<sup><sub>[Резюме на *русском* языке: danil.kutkevich.ru][]</sub></sup>
 
 # Danil Kutkevich — Back-end developer
-
-[armor5games]: https://armor5games.github.io
-[medapp]: http://choice-hs.com
-[rubycda]: https://github.com/hospital-systems/ruby-cda
 
 ## Experience
 
 1. <span title="03.2021">2021</span>
    [Ozon][ozon.ru]
 
-   [ozon.ru]: https://ozon.ru
-
 2. <span title="08.2018—01.2021">2018—2021</span>
-   [Rocketbank][]
+   [Rocketbank][Rocketbank1.0]
 
 3. <span title="07.2018—08.2018">2016—2018</span>
    <span title="Xena Exchange">[Xena][]</span>
@@ -29,8 +23,6 @@
    * Backend of the Bing Han Garden mobile game on Go, PostgreSQL and MongoDB.
      For example, RESTful API, payments via Google Play/Apple Store,
      as well as not fully implemented real-time TCP server
-
-   [Rise of Pirates]: https://armor5games.github.io/en/games/rise-of-pirates/
 
 5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
@@ -50,9 +42,6 @@
    * Performance testing system which triggered by CI on AWS
      for the [Fhirbase][]/medical data storage based on PostgreSQL and FHIR
 
-   [waveaccess.ru]: https://waveaccess.ru
-   [Fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
-
 6. <span title="04.2012—06.2013">2012—2013</span>
    [Molinos][molinos.ru]
 
@@ -61,10 +50,6 @@
 
    * Developed a collaborative blog on Ruby on Rails and MySQL
      for the [Omorfia][omorfia.ru] ongoing contest
-
-   [molinos.ru]: https://molinos.ru
-   [nevareaktiv.ru]: https://nevareaktiv.ru
-   [omorfia.ru]: https://omorfia.ru
 
 7. <span title="09.2010—04.2012">2010—2012</span>
    Avers  
@@ -78,22 +63,15 @@
    Site of the [SKA Ice Hockey Club][ska.ru] on Ruby on Rails and PostgreSQL.
    The most interesting — it is the Nginx configuration
 
-   [john.ru]: https://john.ru
-   [ska.ru]: https://ska.ru
-
 9. <span title="11.2004—03.2008">2004—2008</span>
    [Darout Service][darout]  
    I have rewritten frontend of the
    <span title="hotelguide.com">hotel booking site</span>
    from ColdFusion to JavaServer Faces
 
-   [darout]: http://darout.ru
-
 10. <span title="06.2003—11.2004">2003—2004</span>
-   [Investment Company Lenmontazhstroy][lmisc]  
+   [Investment Company Lenmontazhstroy][lmsic]  
    My first project is a corporate site on PHP and MySQL
-
-   [lmsic]: https://lmsic.com
 
 ## Education
 
@@ -101,8 +79,23 @@
 1997—2001  
 Information Technology, 3rd year
 
+<sup><sub>[Резюме на *русском* языке: danil.kutkevich.ru][]</sub></sup>
+
+[rise of pirates]: https://armor5games.github.io/en/games/rise-of-pirates/
+[armor5games]: https://armor5games.github.io
 [bonch]: https://sut.ru
-
-<sub>[Резюме на *русском* языке: danil.kutkevich.org/ru][]</sub>
-
-[резюме на *русском* языке: danil.kutkevich.org/ru]: ./danilkutkevich.ru.md#readme
+[darout]: http://darout.ru
+[fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
+[john.ru]: https://john.ru
+[lmsic]: https://lmsic.com
+[medapp]: http://choice-hs.com
+[molinos.ru]: https://molinos.ru
+[nevareaktiv.ru]: https://nevareaktiv.ru
+[omorfia.ru]: https://omorfia.ru
+[ozon.ru]: https://ozon.ru
+[rocketbank1.0]: https://rocketbank.ru
+[rubycda]: https://github.com/hospital-systems/ruby-cda
+[ska.ru]: https://ska.ru
+[waveaccess.ru]: https://waveaccess.ru
+[xena]: https://xena.exchange
+[резюме на *русском* языке: danil.kutkevich.ru]: ./danilkutkevich.ru.md#readme
