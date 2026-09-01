@@ -22,7 +22,18 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 ## Опыт
 
-1. <span title="03.2021">2021</span>
+1. <span title="2023.11.27—2026.07.01">2023—2026</span>
+   [Wildberries][wbtech.wildberries.ru]
+
+   Разработка файлового хранилища на Go, Kafka и Bare-metal, например:
+
+   * Разработка хранилища с шардированием
+     2го поколения <!-- без ручного сегментирования -->
+
+   * Удаление директорий в географически-распределённом
+     кластере <!-- в хранилище 1го поколения, в дополнение к удалению файлов -->
+
+2. <span title="03.2021—08.2023">2021—2023</span>
    [ОЗОН банк][bank.ozon.ru]
 
    Разработка банковского приложения на Go, PostgreSQL и K8s, например:
@@ -34,7 +45,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Система гарантирующая целостность передаваемых данных внутри банка,
      состоящая из шаблонизатора Go generate и Protobuf контракта
 
-2. <span title="08.2018—01.2021">2018—2021</span>
+3. <span title="08.2018—01.2021">2018—2021</span>
    [Рокетбанк][rocketbank.ru]
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
@@ -44,7 +55,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[4][mdes]</sub></sup>,
      платёжный шлюз c Точкой<sup><sub>[5][tochka]</sub></sup>
 
-3. 07.2018—08.2018
+4. 07.2018—08.2018
    <span title="Xena Exchange">[Xena][]</span>
 
    * Веб-приложение криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
@@ -53,7 +64,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Проксирование финансовых отчетов из основного приложения в админку через
      PostgreSQL foreign-data wrapper и Loopback<sup><sub>[6][loopback]</sub></sup>
 
-4. <span title="10.2016—05.2018">2016—2018</span>
+5. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
 
    * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
@@ -64,7 +75,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      Например RESTful API, приём платежей через Apple Store и Google Play.
      Готовился TCP сервер реального времени
 
-5. <span title="06.2013—08.2016">2013—2016</span>
+6. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
@@ -81,7 +92,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
      [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL и FHIR
 
-6. <span title="04.2012—06.2013">2012—2013</span>
+7. <span title="04.2012—06.2013">2012—2013</span>
    [Молинос][molinos.ru]
 
    * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
@@ -90,23 +101,23 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][omorfia.ru] —
      постоянно действующего конкурса
 
-7. <span title="09.2010—04.2012">2010—2012</span>
+8. <span title="09.2010—04.2012">2010—2012</span>
    OOO Аверс  
    Дописывал фриланс биржу на Ruby on Rails, MySQL,
    Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
-8. <span title="03.2008—09.2010">2008—2010</span>
+9. <span title="03.2008—09.2010">2008—2010</span>
    [Джон студия][john.ru]  
    [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
    Из интересного — настройтка Nginx
 
-9. <span title="11.2004—03.2008">2004—2008</span>
+10. <span title="11.2004—03.2008">2004—2008</span>
    [Дараут сервис][darout]  
    Переписал фронт
    <span title="hotelguide.com">бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
-10. <span title="06.2003—11.2004">2003—2004</span>
+11. <span title="06.2003—11.2004">2003—2004</span>
    [Инвестиционная Компания Ленмонтажстрой][lmsic]  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL
 
@@ -144,4 +155,5 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 [sqltee]: https://github.com/danil/sqltee
 [tochka]: https://tochka.com
 [waveaccess.ru]: https://waveaccess.ru
+[wbtech.wildberries.ru]: https://wbtech.wildberries.ru
 [xena]: https://xena.exchange
