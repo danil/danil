@@ -36,7 +36,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 2. <span title="03.2021—08.2023">2021—2023</span>
    [ОЗОН банк][bank.ozon.ru]
 
-   Разработка банковского приложения на Go, PostgreSQL и K8s, например:
+   Банковское приложение на Go, PostgreSQL и K8s, например:
 
    * Сервис принимающий входящие данные для
      [311-П][]/[440-П][]<sup><sub>[1][440-п цб]</sub></sup> ФНС
@@ -86,7 +86,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
      а также WebRTC-видеоконференция
 
-   * Прототип <span title="Salemed">системы заказа магниторезонансной
+   * Прототип <span title="Salemed">системы заказа магнитно-резонансной
      томографии</span> на Clojure и PostgreSQL
 
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
@@ -109,7 +109,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 9. <span title="03.2008—09.2010">2008—2010</span>
    [Джон студия][john.ru]  
    [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
-   Из интересного — настройтка Nginx
+   Из интересного — настройка Nginx
 
 10. <span title="11.2004—03.2008">2004—2008</span>
    [Дараут сервис][darout]  
