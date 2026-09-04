@@ -25,10 +25,11 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 1. <span title="2023.11.27—2026.07.01">2023—2026</span>
    [Wildberries][wbtech.wildberries.ru]
 
-   Разработка файлового хранилища на Go, Kafka и Bare-metal, например:
+   Файловое хранилище на Go, Kafka и Bare-metal, например:
 
    * Разработка хранилища с шардированием
-     2го поколения <!-- без ручного сегментирования -->
+     2го поколения <!-- 2е без ручного сегментирования c мастер-шлюзом,
+     а 1е c ручным сегментированием без мастера с [BGP][] и [Bird][] [1231011841][] -->
 
    * Удаление директорий в географически-распределённом
      кластере <!-- в хранилище 1го поколения, в дополнение к удалению файлов -->
@@ -50,19 +51,21 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
-     Из интересного — кодек [ISO 8583][go8583], антифрод, [SQL логирование][sqltee]
+     Из интересного — кодек [ISO 8583][go8583], антифрод
 
    * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[4][mdes]</sub></sup>,
      платёжный шлюз c Точкой<sup><sub>[5][tochka]</sub></sup>
 
 4. 07.2018—08.2018
-   <span title="Xena Exchange">[Xena][]</span>
+   <span title="Xena.Exchange">Xena Exchange</span>
 
-   * Веб-приложение криптовалютной биржи на Go, PostgreSQL, RabbitMQ,
-     K8s. Например восстановление пароля, кэширование новостей
+   Криптовалютная биржа на Go, PostgreSQL, RabbitMQ, K8s, например:
 
    * Проксирование финансовых отчетов из основного приложения в админку через
-     PostgreSQL foreign-data wrapper и Loopback<sup><sub>[6][loopback]</sub></sup>
+     foreign-data wrapper<sup><sub>[6][PostgreSQL foreign-data wrapper]</sub></sup> и
+     Loopback3<sup><sub>[7][StrongLoop]</sub></sup>
+
+   * Восстановление пароля и кэширование новостей для веб-приложения
 
 5. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
@@ -80,7 +83,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
-     учреждения<sup><sub>[7][medapp]</sub></sup>, размером более 50-ти моделей
+     учреждения<sup><sub>[8][medapp]</sub></sup>,
+     более 50-ти моделей <!-- [Clinical Document Architecture][CDA] -->
 
    * <span title="Holiadvice">Телемедицинская система</span>
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
@@ -134,19 +138,23 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 [440-п]: https://nalog.gov.ru/rn77/about_fts/interaction_other/bank_rf/
 [armor5games]: https://armor5games.github.io
 [bank.ozon.ru]: https://bank.ozon.ru
+[bgp]: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+[bird]: https://github.com/cz-nic/bird
 [bonch]: https://sut.ru
+[cda]: https://en.wikipedia.org/wiki/Clinical_Document_Architecture "CDA Clinical Document Architecture."
 [curriculum vitae in *english*: danil.kutkevich.ru]: ./danilkutkevich.en.md#readme
 [darout]: http://darout.ru
-[fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors
+[fhirbase]: https://github.com/fhirbase/fhirbase-plv8/graphs/contributors?all=1
 [go8583]: https://github.com/danil/iso8583
 [john.ru]: https://john.ru
 [lmsic]: https://lmsic.com
-[loopback]: https://github.com/strongloop
+[strongloop]: https://github.com/strongloop "StrongLoop or LoopBack 3 and 2 (now LoopBack.io)."
 [mdes]: https://developer.mastercard.com/mdes-customer-service/documentation
 [medapp]: https://health-samurai.io
 [molinos.ru]: https://molinos.ru
 [nevareaktiv.ru]: https://nevareaktiv.ru
 [omorfia.ru]: https://omorfia.ru
+[postgresql foreign-data wrapper]: https://wiki.postgresql.org/wiki/Foreign_data_wrappers "PostgreSQL foreign-data wrapper."
 [rise of pirates]: https://armor5games.github.io/ru/games/rise-of-pirates
 [rocketbank.ru]: https://rocketbank.ru
 [rocketbank1.0]: https://rocketbank.ru
@@ -156,4 +164,4 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 [tochka]: https://tochka.com
 [waveaccess.ru]: https://waveaccess.ru
 [wbtech.wildberries.ru]: https://wbtech.wildberries.ru
-[xena]: https://xena.exchange
+[1231011841]: https://en.wikipedia.org/wiki/Bird_Internet_routing_daemon
