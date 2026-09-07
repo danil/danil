@@ -8,24 +8,25 @@
 До 2016-го был [руби][rubycda].
 Писал [финтех][Rocketbank1.0], [геймдев][Armor5Games] и [медтех][Medapp].
 
-Привык к 100500 RPS, хочу столько же)
+Привык к highload 10k+ RPS <!-- https://en.wikipedia.org/wiki/C10k_problem -->
 
-Работаю сам и в команде единомышленников
+Работаю и самостоятельно, и в команде единомышленников
 
-Рассчитываю на вознаграждение 300k рублей net.
+Рассчитываю на вознаграждение 450k рублей net
 
-Эл. почта <danil@kutkevich.org>  
 Расположение Москва или Петербург  
+Телеграм&nbsp; [t.me/danilkutkevich](https://telegram.me/danilkutkevich)  
+Эл.почта <danil@kutkevich.ru>  
 Телефон +7 921 338 0130  
-Гитхаб/[danil](https://github.com/danil)  
-VK/[danilkutkevich](https://vk.com/danilkutkevich)
+VK/[danilkutkevich](https://vk.com/danilkutkevich)  
+Гитхаб/[danil](https://github.com/danil)
 
 ## Опыт
 
 1. <span title="2023.11.27—2026.07.01">2023—2026</span>
-   [Wildberries][wbtech.wildberries.ru]
+   [ВБ ТЕХ][wbtech.wildberries.ru]
 
-   Файловое хранилище на Go, Kafka и Bare-metal, например:
+   Высоконагруженное файловое хранилище на Go, Kafka и Bare-metal, например:
 
    * Удаление директорий в географически-распределённом
      кластере <!-- в дополнение к удалению файлов,
