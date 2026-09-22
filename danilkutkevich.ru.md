@@ -29,6 +29,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 1. <span title="2023.11.27—2026.07.01">2023—2026</span>
    [ВБ ТЕХ][wbtech.wildberries.ru]
+   Старший бэкенд-разработчик
 
    Высоконагруженное файловое хранилище на Go, Kafka и Bare-metal, например:
 
@@ -43,6 +44,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 2. <span title="03.2021—08.2023">2021—2023</span>
    [ОЗОН банк][bank.ozon.ru]
+   Ведущий бэкенд-разработчик
 
    Банковское приложение на Go, PostgreSQL и K8s, например:
 
@@ -56,6 +58,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 3. <span title="08.2018—01.2021">2018—2021</span>
    [Рокетбанк][rocketbank.ru]
+   Старший бэкенд-разработчик
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
@@ -64,8 +67,9 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[4][mdes]</sub></sup>,
      платёжный шлюз c Точкой<sup><sub>[5][tochka]</sub></sup>
 
-4. 07.2018—08.2018
+<!-- 4. 07.2018—08.2018
    <span title="Xena.Exchange">Xena Exchange</span>
+   Старший бэкенд-разработчик
 
    Криптовалютная биржа на Go, PostgreSQL, RabbitMQ, K8s, например:
 
@@ -73,10 +77,11 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      foreign-data wrapper<sup><sub>[6][PostgreSQL foreign-data wrapper]</sub></sup> и
      Loopback3<sup><sub>[7][StrongLoop]</sub></sup>
 
-   * Восстановление пароля и кэширование новостей для веб-приложения
+   * Восстановление пароля и кэширование новостей для веб-приложения -->
 
-5. <span title="10.2016—05.2018">2016—2018</span>
+4. <span title="10.2016—05.2018">2016—2018</span>
    [Armor5Games][]
+   Старший бэкенд-разработчик
 
    * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
      Например приём платежей через Apple Store.
@@ -85,8 +90,9 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      Например RESTful API, приём платежей через Apple Store и Google Play.
      Готовился TCP сервер реального времени
 
-6. <span title="06.2013—08.2016">2013—2016</span>
+5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
+   Средний фулстек-разработчик
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
@@ -104,8 +110,9 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL
      и FHIR <!-- [Fast Healthcare Interoperability Resources][HL7 FHIR] -->
 
-7. <span title="04.2012—06.2013">2012—2013</span>
+6. <span title="04.2012—06.2013">2012—2013</span>
    [Молинос][molinos.ru]
+   Старший бэкенд-разработчик
 
    * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
      на Ruby on Rails и MySQL. Из интересного — полнотекстовой поиск на Sphinx
@@ -113,24 +120,28 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][omorfia.ru] —
      постоянно действующего конкурса
 
-8. <span title="09.2010—04.2012">2010—2012</span>
-   OOO Аверс  
+7. <span title="09.2010—04.2012">2010—2012</span>
+   OOO Аверс <!-- Avers -->
+   Средний фулстек-разработчик  
    Дописывал фриланс биржу на Ruby on Rails, MySQL,
    Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
-9. <span title="03.2008—09.2010">2008—2010</span>
-   [Джон студия][john.ru]  
+8. <span title="03.2008—09.2010">2008—2010</span>
+   [Джон студия][john.ru]
+   Средний бэкенд-разработчик  
    [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
    Из интересного — настройка Nginx
 
-10. <span title="11.2004—03.2008">2004—2008</span>
-   [Дараут сервис][darout]  
+9. <span title="11.2004—03.2008">2004—2008</span>
+   [Дараут сервис][darout]
+   Средний фулстек-разработчик  
    Переписал фронт
    <span title="hotelguide.com">бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces
 
-11. <span title="06.2003—11.2004">2003—2004</span>
-   [Инвестиционная Компания Ленмонтажстрой][lmsic]  
+10. <span title="06.2003—11.2004">2003—2004</span>
+   [Инвестиционная Компания Ленмонтажстрой][lmsic]
+   Средний фулстек-разработчик  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL
 
 ## Образование
