@@ -7,12 +7,16 @@
 Я Данил, пишу [бэк][go8583] на [Go][sqltee].
 До 2016-го был [руби][rubycda].
 Писал [финтех][Rocketbank1.0], [геймдев][Armor5Games] и [медтех][Medapp].
-
-Привык к highload 10k+ RPS <!-- https://en.wikipedia.org/wiki/C10k_problem -->
-
 Работаю и самостоятельно, и в команде единомышленников
+<!-- Привык к highload 10k+ RPS --><!-- https://en.wikipedia.org/wiki/C10k_problem -->
+<!-- Рассчитываю на вознаграждение 450k рублей net -->
 
-Рассчитываю на вознаграждение 450k рублей net
+## Навыки
+
+Backend: Go 7+ лет  
+Инфраструктура: PostgreSQL, Kafka, Kubernetes  
+Практики: Highload 10k+ RPS <!-- https://en.wikipedia.org/wiki/C10k_problem -->, Микросервисы, CI/CD  
+Прочее: Linux, gRPC/Protobuf, ISO 8583, HL7 FHIR/CDA
 
 Расположение Москва или Петербург  
 Телеграм&nbsp; [t.me/danilkutkevich](https://telegram.me/danilkutkevich)  
@@ -88,7 +92,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
      учреждения<sup><sub>[8][medapp]</sub></sup>,
-     более 50-ти моделей <!-- [Clinical Document Architecture][CDA] -->
+     более 50-ти моделей <!-- [Clinical Document Architecture][HL7 CDA] -->
 
    * <span title="Holiadvice">Телемедицинская система</span>
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
@@ -98,7 +102,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      томографии</span> на Clojure и PostgreSQL
 
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
-     [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL и FHIR
+     [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL
+     и FHIR <!-- [Fast Healthcare Interoperability Resources][HL7 FHIR] -->
 
 7. <span title="04.2012—06.2013">2012—2013</span>
    [Молинос][molinos.ru]
