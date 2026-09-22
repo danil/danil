@@ -33,7 +33,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    Высоконагруженное файловое хранилище на Go, Kafka и Bare-metal, например:
 
-   * Удаление директорий в географически-распределённом кластере,
+   * Удаление директорий в географически распределённом кластере,
      ускорившее множественное удаление по сравнению
      с индивидуальным удалением файлов <!-- в хранилище 1го поколения
      c ручным сегментированием без мастера с [BGP][] и [Bird][] [1231011841][] -->
@@ -48,12 +48,12 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    Банковское приложение на Go, PostgreSQL и K8s, например:
 
-   * Сервис принимающий счета и отправляющий
+   * Сервис, принимающий счета и отправляющий
      отчёты [311-П][]<!-- балансовые счетам второго порядка, например:
      40817 40820 40802 40701 40702 -->, а также отправляющий в ФНС ответы на
      запросы [440-П][]<sup><sub>[1][440-п цб]</sub></sup>
 
-   * Система гарантирующая целостность передачи данных внутри банка,
+   * Система, гарантирующая целостность передачи данных внутри банка,
      состоящая из шаблонизатора для Go generate и Protobuf контракта
 
 3. <span title="08.2018—01.2021">2018—2021</span>
@@ -64,8 +64,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод
 
-   * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[4][mdes]</sub></sup>,
-     платёжный шлюз c Точкой<sup><sub>[5][tochka]</sub></sup>
+   * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[2][mdes]</sub></sup>,
+     платёжный шлюз c Точкой<sup><sub>[3][tochka]</sub></sup>
 
 <!-- 4. 07.2018—08.2018
    <span title="Xena.Exchange">Xena Exchange</span>
@@ -73,9 +73,9 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    Криптовалютная биржа на Go, PostgreSQL, RabbitMQ, K8s, например:
 
-   * Проксирование финансовых отчетов из основного приложения в админку через
-     foreign-data wrapper<sup><sub>[6][PostgreSQL foreign-data wrapper]</sub></sup> и
-     Loopback3<sup><sub>[7][StrongLoop]</sub></sup>
+   * Проксирование финансовых отчёты из основного приложения в админку через
+     foreign-data wrapper<sup><sub>[4][PostgreSQL foreign-data wrapper]</sub></sup> и
+     Loopback3<sup><sub>[5][StrongLoop]</sub></sup>
 
    * Восстановление пароля и кэширование новостей для веб-приложения -->
 
@@ -84,11 +84,11 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    Старший бэкенд-разработчик
 
    * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
-     Например приём платежей через Apple Store.
+     Например, приём платежей через App Store.
 
    * Сервер мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
-     Например RESTful API, приём платежей через Apple Store и Google Play.
-     Готовился TCP сервер реального времени
+     Например, RESTful API, приём платежей через App Store и Google Play.
+     Готовил TCP-сервер реального времени
 
 5. <span title="06.2013—08.2016">2013—2016</span>
    [Waveaccess][waveaccess.ru]
@@ -96,8 +96,8 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
-     учреждения<sup><sub>[8][medapp]</sub></sup>,
-     более 50-ти моделей <!-- [Clinical Document Architecture][HL7 CDA] -->
+     учреждения<sup><sub>[6][medapp]</sub></sup>,
+     более 50 моделей <!-- [Clinical Document Architecture][HL7 CDA] -->
 
    * <span title="Holiadvice">Телемедицинская система</span>
      на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
@@ -115,15 +115,15 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
    Старший бэкенд-разработчик
 
    * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
-     на Ruby on Rails и MySQL. Из интересного — полнотекстовой поиск на Sphinx
+     на Ruby on Rails и MySQL. Из интересного — полнотекстовый поиск на Sphinx
 
    * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][omorfia.ru] —
      постоянно действующего конкурса
 
 7. <span title="09.2010—04.2012">2010—2012</span>
-   OOO Аверс <!-- Avers -->
+   ООО «Аверс» <!-- Avers -->
    Средний фулстек-разработчик  
-   Дописывал фриланс биржу на Ruby on Rails, MySQL,
+   Дописывал фриланс-биржу на Ruby on Rails, MySQL,
    Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП
 
 8. <span title="03.2008—09.2010">2008—2010</span>
@@ -146,7 +146,7 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
 ## Образование
 
-[Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича][bonch]
+[Санкт-Петербургский государственный университет телекоммуникаций им. проф. М. А. Бонч-Бруевича][bonch]
 1997—2001  
 Незаконченное высшее. Факультет многоканальных телекоммуникационных систем
 
