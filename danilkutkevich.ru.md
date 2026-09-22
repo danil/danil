@@ -80,7 +80,6 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
 
    * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
      Например приём платежей через Apple Store.
-     120 RPS, 50k новых пользователей в неделю
 
    * Сервер мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
      Например RESTful API, приём платежей через Apple Store и Google Play.
