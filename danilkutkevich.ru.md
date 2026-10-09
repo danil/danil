@@ -13,45 +13,46 @@
 
 ## Навыки
 
-Backend: Go 7+ лет  
-Инфраструктура: PostgreSQL, Kafka, Kubernetes  
-Практики: Highload 10k+ RPS <!-- https://en.wikipedia.org/wiki/C10k_problem -->, Микросервисы, CI/CD  
-Прочее: Linux, gRPC/Protobuf, ISO 8583, HL7 FHIR/CDA
+Backend: Go 9+ лет, PostgreSQL  
+Инфраструктура: Kafka, Linux, Kubernetes  
+Практики: Highload 10k+ RPS<!-- https://en.wikipedia.org/wiki/C10k_problem -->, Микросервисы, CI/CD  
+Прочее: gRPC/Protobuf, ISO 8583, HL7 FHIR/CDA
 
 ## Контакты
 
 Расположение Москва или Петербург  
-Телеграм&nbsp; [t.me/danilkutkevich](https://telegram.me/danilkutkevich)  
+Telegram&nbsp; [t.me/danilkutkevich](https://telegram.me/danilkutkevich)  
 Эл.почта <danil@kutkevich.ru>  
 Телефон +7 921 338 0130  
 VK/[danilkutkevich](https://vk.com/danilkutkevich)  
-Гитхаб/[danil](https://github.com/danil)
+GitHub/[danil](https://github.com/danil)
 
 ## Опыт
 
 1. <span title="2023.11.27—2026.07.01">2023—2026</span>
-   [ВБ ТЕХ][wbtech.wildberries.ru]
-   Старший бэкенд-разработчик
+   [ВБ Тех][wbtech.wildberries.ru],
+   старший бэкенд-разработчик
 
-   Высоконагруженное файловое хранилище (10k+ RPS)
-   на Go, Kafka и Bare-metal, например:
+   Высоконагруженное файловое хранилище (10k+ RPS, множество дата-центров, 100+ серверов)
+   на Go, Kafka и Bare-metal (Linux), в том числе:
 
    * Удаление директорий в географически распределённом кластере,
-     которое гораздо быстрее по сравнению с индивидуальным удалением файлов <!-- в хранилище 1го поколения
+     позволяющее удалить множество файлов за раз <!-- в хранилище 1го поколения
      c ручным сегментированием без мастера с [BGP][] и [Bird][] [1231011841][] -->
 
-   * Разработка хранилища нового поколения позволяющее масштабировать кластер
+   * Разработка хранилища нового поколения, позволяющего масштабировать кластер
      без ручного шардирования <!-- без ручного сегментирования, 2е покoление
      c мастер-шлюзом -->
 
 2. <span title="03.2021—08.2023">2021—2023</span>
-   [ОЗОН банк][bank.ozon.ru]
-   Старший бэкенд-разработчик
+   [ОЗОН банк][bank.ozon.ru],
+   старший бэкенд-разработчик
 
-   Банковское приложение на Go, PostgreSQL и K8s, например:
+   Банковское приложение на Go, PostgreSQL и K8s, в том числе:
 
-   * Сервис, отправляющий в ФНС XML по [311-П][] на каждый счёт<!-- балансовые счета второго порядка, например:
-     40817 40820 40802 40701 40702 -->, а также отвечающий на
+   * Сервис, отправляющий в ФНС XML по [311-П][]
+     на каждый счёт, <!-- балансовые счета второго порядка, в том числе:
+     40817 40820 40802 40701 40702 --> а также отвечающий на
      запросы [440-П][]<sup><sub>[1][440-п цб]</sub></sup>,
      обеспечивший отчётность без штрафов
 
@@ -59,42 +60,43 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      гарантирующая целостность передачи данных между микросервисами
 
 3. <span title="08.2018—01.2021">2018—2021</span>
-   [Рокетбанк][rocketbank.ru]
-   Старший бэкенд-разработчик
+   [Рокетбанк][rocketbank.ru],
+   старший бэкенд-разработчик
 
-   * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s — 120 RPS
-     с гарантией ответа Мастеркарду/TSYS до 500 миллисекунд.
+   * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s
+     — гарантия ответа Mastercard/TSYS до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод
 
-   * Сервисы на Ruby on Rails: апи с Mastercard MDES<sup><sub>[2][mdes]</sub></sup>,
-     платёжный шлюз c Точкой<sup><sub>[3][tochka]</sub></sup>
+   * Сервисы на Ruby on Rails: API с Mastercard MDES<sup><sub>[2][mdes]</sub></sup>,
+     платёжный шлюз с Точкой<sup><sub>[3][tochka]</sub></sup>
 
 <!-- 4. 07.2018—08.2018
-   <span title="Xena.Exchange">Xena Exchange</span>
-   Старший бэкенд-разработчик
+   <span title="Xena.Exchange">Xena Exchange</span>,
+   старший бэкенд-разработчик
 
-   Криптовалютная биржа на Go, PostgreSQL, RabbitMQ, K8s, например:
+   Криптовалютная биржа на Go, PostgreSQL, RabbitMQ, K8s, в том числе:
 
-   * Проксирование финансовых отчёты из основного приложения в админку через
+   * Проксирование финансовых отчётов из основного приложения в админку через
      foreign-data wrapper<sup><sub>[4][PostgreSQL foreign-data wrapper]</sub></sup> и
      Loopback3<sup><sub>[5][StrongLoop]</sub></sup>
 
    * Восстановление пароля и кэширование новостей для веб-приложения -->
 
 4. <span title="10.2016—05.2018">2016—2018</span>
-   [Armor5Games][]
-   Старший бэкенд-разработчик
+   [Armor5Games][],
+   старший бэкенд-разработчик
 
-   * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB.
-     Например, приём платежей через App Store.
+   * Сервер мобильной игры [Rise of Pirates][] на Go, MySQL и MongoDB
+     — 50k новых пользователей в неделю.
+     В том числе приём платежей через App Store.
 
    * Сервер мобильной игры Bing Han Garden на Go, PostgreSQL и MongoDB.
-     Например, RESTful API, приём платежей через App Store и Google Play.
+     В том числе RESTful API, приём платежей через App Store и Google Play.
      <!-- Прототип TCP-сервера реального времени -->
 
 5. <span title="06.2013—08.2016">2013—2016</span>
-   [Waveaccess][waveaccess.ru]
-   Средний фулстек-разработчик
+   [Waveaccess][waveaccess.ru],
+   фулстек-разработчик
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
      на Ruby on Rails и PostgreSQL. Система документооборота медицинского
@@ -102,53 +104,52 @@ VK/[danilkutkevich](https://vk.com/danilkutkevich)
      более 50 моделей <!-- [Clinical Document Architecture][HL7 CDA] -->
 
    * <span title="Holiadvice">Телемедицинская система</span>
-     на Ruby on Rails и PostgreSQL. Например, приём платежей через Paypal,
+     на Ruby on Rails и PostgreSQL. В том числе приём платежей через PayPal,
      а также WebRTC-видеоконференция
 
    * Прототип <span title="Salemed">системы заказа магнитно-резонансной
      томографии</span> на Clojure и PostgreSQL
 
    * Система нагрузочного тестирования, запускаемая из CI на AWS для
-     [Fhirbase][]/хранилище медицинских данных на основе PostgreSQL
-     и FHIR <!-- [Fast Healthcare Interoperability Resources][HL7 FHIR] -->
+     [Fhirbase][] (хранилище медицинских данных на основе PostgreSQL
+     и FHIR) <!-- [Fast Healthcare Interoperability Resources][HL7 FHIR] -->
 
 6. <span title="04.2012—06.2013">2012—2013</span>
-   [Молинос][molinos.ru]
-   Бэкенд-разработчик
+   [Молинос][molinos.ru],
+   бэкенд-разработчик
 
-   * [НеваРеактив][nevareaktiv.ru] магазин химических реактивов
+   * [НеваРеактив][nevareaktiv.ru] — магазин химических реактивов
      на Ruby on Rails и MySQL. Из интересного — полнотекстовый поиск на Sphinx
 
    * Коллективный блог на Ruby on Rails и MySQL для [Оморфии][omorfia.ru] —
      постоянно действующего конкурса
 
 7. <span title="06.2003—04.2012">2003—2012</span>
-   Стартапы и веб-студии  
-   Средний фулстек-разработчик. Ruby on Rails, Redis.
+   fullstack developer в стартапах и веб-студиях (Ruby on Rails, MySQL, Redis)  
    Более 5 успешно сданных проектов
 
 <!-- 7. <span title="09.2010—04.2012">2010—2012</span>
-   ООО «Аверс»
-   Средний фулстек-разработчик  
+   ООО «Аверс»,
+   middle fullstack developer  
    Дописывал фриланс-биржу на Ruby on Rails, MySQL,
    Sphinx поиск по адресам КЛАДР, генератор PDF налоговой декларации для ИП -->
 
 <!-- 8. <span title="03.2008—09.2010">2008—2010</span>
-   [Джон студия][john.ru]
-   Средний бэкенд-разработчик  
+   [Джон студия][john.ru],
+   middle бэкенд-разработчик  
    [Сайт хоккейного клуба СКА][ska.ru] на Ruby on Rails и PostgreSQL.
    Из интересного — настройка Nginx -->
 
 <!-- 9. <span title="11.2004—03.2008">2004—2008</span>
-   [Дараут сервис][darout]
-   Средний фулстек-разработчик  
+   [Дараут сервис][darout],
+   middle fullstack developer  
    Переписал фронт
    <span title="hotelguide.com">бронирования гостиниц</span>
    с ColdFusion на JavaServer Faces -->
 
 <!-- 10. <span title="06.2003—11.2004">2003—2004</span>
-   [Инвестиционная Компания Ленмонтажстрой][lmsic]
-   Средний фулстек-разработчик  
+   [Инвестиционная Компания Ленмонтажстрой][lmsic],
+   middle fullstack developer  
    Мой первый проект — корпоративный сайт компании на PHP и MySQL -->
 
 ## Образование
