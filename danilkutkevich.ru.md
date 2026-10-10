@@ -100,8 +100,8 @@ GitHub/[danil](https://github.com/danil)
    фулстек-разработчик
 
    * Автоматизация сертификации [сверки терапии/лекарственных средств][rubycda]
-     на Ruby on Rails и PostgreSQL. Система документооборота медицинского
-     учреждения<sup><sub>[4][medapp]</sub></sup>,
+     на Ruby on Rails и PostgreSQL. Электронная медкарта
+     (система документооборота медицинского учреждения<sup><sub>[4][medapp]</sub></sup>),
      более 50 моделей <!-- [Clinical Document Architecture][HL7 CDA] -->
 
    * <span title="Holiadvice">Телемедицинская система</span>
