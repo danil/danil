@@ -6,17 +6,18 @@
 
 Я Данил, пишу [бэк][go8583] на [Go][sqltee].
 До 2016-го был [руби][rubycda].
-Писал [финтех][Rocketbank1.0], [геймдев][Armor5Games] и [медтех][Medapp].
-Работаю и самостоятельно, и в команде единомышленников
+Писал [финтех][Rocketbank1.0], [геймдев][Armor5Games] и [медтех][Medapp]
+<!-- Работаю и самостоятельно, и в команде единомышленников -->
 <!-- Привык к highload 10k+ RPS --><!-- https://en.wikipedia.org/wiki/C10k_problem -->
 <!-- Рассчитываю на вознаграждение 450k рублей net -->
 
 ## Навыки
 
-Backend: Go 9+ лет, PostgreSQL  
-Инфраструктура: Kafka, Linux, Kubernetes  
-Практики: Highload 10k+ RPS<!-- https://en.wikipedia.org/wiki/C10k_problem -->, Микросервисы, CI/CD  
-Прочее: gRPC/Protobuf, ISO 8583, HL7 FHIR/CDA
+<sup><sub>Backend:</sub></sup> Go 9+ лет  
+<sup><sub>Базы данных:</sub></sup> PostgreSQL, MySQL, Redis  
+<sup><sub>Инфраструктура:</sub></sup> Kafka, Linux, Bash, Kubernetes  
+<sup><sub>Практики:</sub></sup> Highload 10k+ RPS<!-- https://en.wikipedia.org/wiki/C10k_problem -->, Микросервисы, CI/CD  
+<sup><sub>Прочее:</sub></sup> gRPC, ISO 8583, HL7 FHIR/CDA
 
 ## Контакты
 
@@ -33,7 +34,7 @@ GitHub/[danil](https://github.com/danil)
    [ВБ Тех][wbtech.wildberries.ru],
    старший бэкенд-разработчик
 
-   Высоконагруженное файловое хранилище (10k+ RPS, множество дата-центров, 100+ серверов)
+   Высоконагруженное файловое хранилище (10k+ RPS, 5+ дата-центров, 100+ серверов)
    на Go, Kafka и Bare-metal (Linux), в том числе:
 
    * Удаление директорий в географически распределённом кластере,
@@ -41,12 +42,12 @@ GitHub/[danil](https://github.com/danil)
      c ручным сегментированием без мастера с [BGP][] и [Bird][] [1231011841][] -->
 
    * Разработка хранилища нового поколения, позволяющего масштабировать кластер
-     без ручного шардирования <!-- без ручного сегментирования, 2е покoление
+     без ручного шардирования <!-- без ручного сегментирования, 2е поколение
      c мастер-шлюзом -->
 
 2. <span title="03.2021—08.2023">2021—2023</span>
    [ОЗОН банк][bank.ozon.ru],
-   старший бэкенд-разработчик
+   ведущий бэкенд-разработчик
 
    Банковское приложение на Go, PostgreSQL и K8s, в том числе:
 
