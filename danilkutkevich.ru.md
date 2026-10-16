@@ -17,8 +17,8 @@
 <sup><sub>Базы данных:</sub></sup> PostgreSQL, MySQL, ClickHouse, Redis, etcd  
 <sup><sub>Инфраструктура:</sub></sup> Kafka, Linux, Bash, Kubernetes, Ansible  
 <sup><sub>Observability:</sub></sup> Prometheus, Grafana, OpenTelemetry  
-<sup><sub>Практики:</sub></sup> Микросервисы, CI/CD  
-<sup><sub>Прочее:</sub></sup> gRPC, ISO 8583, HL7 FHIR/CDA  
+<sup><sub>Практики:</sub></sup> <span title="High Availability">HA</span>, Микросервисы, CI/CD  
+<sup><sub>Прочее:</sub></sup> <span title="gRPC/Protobuf">gRPC</span>, ISO 8583, <span title="Clinical Document Architecture">HL7 FHIR/CDA</span>  
 <sup><sub>Английский язык:</sub></sup> технический, читаю документацию
 
 ## Контакты
