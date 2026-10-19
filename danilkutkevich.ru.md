@@ -73,7 +73,7 @@ GitHub/[danil](https://github.com/danil)
      c мастер-шлюзом -->
 
 2. <span title="03.2021—08.2023">2021—2023</span>
-   [ОЗОН банк][bank.ozon.ru],
+   [Озон банк][bank.ozon.ru],
    ведущий бэкенд-разработчик
 
    Банковское приложение на Go и PostgreSQL
