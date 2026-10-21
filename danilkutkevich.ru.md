@@ -41,7 +41,7 @@ GitHub/[danil](https://github.com/danil)
      (10k+ RPS чтения на каждом сервере, 5+ ДЦ, 100+ серверов bare-metal Linux).
      HA-архитектура спроектирована до меня: сегменты по артикулу
      зеркалируются между ДЦ, BGP anycast для failover, eventual consistency,
-     запись через Kafka с LWW.
+     запись через Kafka (байты по HTTP) с LWW.
      Отказ узла или ДЦ не влияет на доступность;
      события, дошедшие до Kafka, не теряются.
 
