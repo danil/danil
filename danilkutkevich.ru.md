@@ -109,7 +109,7 @@ GitHub/[danil](https://github.com/danil)
    старший бэкенд-разработчик
 
    * Банковский процессинг на Go, PostgreSQL, RabbitMQ, K8s
-     — гарантия ответа Mastercard/TSYS до 500 миллисекунд.
+     — гарантия ответа Mastercard/TSYS SLA до 500 миллисекунд.
      Из интересного — кодек [ISO 8583][go8583], антифрод
 
    * Сервисы на Ruby on Rails: API с Mastercard MDES<sup><sub>[2][mdes]</sub></sup>,
